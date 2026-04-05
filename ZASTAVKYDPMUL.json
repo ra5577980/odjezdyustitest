@@ -1,0 +1,3700 @@
+{
+  "ItemList": [
+    {
+      "Node": 475,
+      "Post": 1,
+      "Name": "Stradov",
+      "Latitude": 50.6935959,
+      "Longitude": 13.9215946,
+      "Zone": 121
+    },
+    {
+      "Node": 475,
+      "Post": 2,
+      "Name": "Stradov",
+      "Latitude": 50.6936378,
+      "Longitude": 13.9217424,
+      "Zone": 121
+    },
+    {
+      "Node": 476,
+      "Post": 1,
+      "Name": "Zalužanská",
+      "Latitude": 50.6967163,
+      "Longitude": 13.9332409,
+      "Zone": 121
+    },
+    {
+      "Node": 476,
+      "Post": 2,
+      "Name": "Zalužanská",
+      "Latitude": 50.6965675,
+      "Longitude": 13.9328747,
+      "Zone": 121
+    },
+    {
+      "Node": 477,
+      "Post": 1,
+      "Name": "Chlumec přejezd",
+      "Latitude": 50.6904526,
+      "Longitude": 13.945673,
+      "Zone": 121
+    },
+    {
+      "Node": 477,
+      "Post": 2,
+      "Name": "Chlumec přejezd",
+      "Latitude": 50.6905479,
+      "Longitude": 13.9458952,
+      "Zone": 121
+    },
+    {
+      "Node": 478,
+      "Post": 1,
+      "Name": "Chlumec",
+      "Latitude": 50.6973877,
+      "Longitude": 13.9405537,
+      "Zone": 121
+    },
+    {
+      "Node": 478,
+      "Post": 2,
+      "Name": "Chlumec",
+      "Latitude": 50.6975632,
+      "Longitude": 13.9405994,
+      "Zone": 121
+    },
+    {
+      "Node": 681,
+      "Post": 1,
+      "Name": "Koštov obec",
+      "Latitude": 50.63159,
+      "Longitude": 13.9927921,
+      "Zone": 101
+    },
+    {
+      "Node": 681,
+      "Post": 2,
+      "Name": "Koštov obec",
+      "Latitude": 50.63147,
+      "Longitude": 13.9929762,
+      "Zone": 101
+    },
+    {
+      "Node": 683,
+      "Post": 1,
+      "Name": "Koštov",
+      "Latitude": 50.6365166,
+      "Longitude": 13.9936237,
+      "Zone": 101
+    },
+    {
+      "Node": 683,
+      "Post": 2,
+      "Name": "Koštov",
+      "Latitude": 50.6366348,
+      "Longitude": 13.9938393,
+      "Zone": 101
+    },
+    {
+      "Node": 1343,
+      "Post": 1,
+      "Name": "U Pomníku",
+      "Latitude": 50.6901436,
+      "Longitude": 13.9105682,
+      "Zone": 122
+    },
+    {
+      "Node": 1343,
+      "Post": 2,
+      "Name": "U Pomníku",
+      "Latitude": 50.69039,
+      "Longitude": 13.9117594,
+      "Zone": 122
+    },
+    {
+      "Node": 1343,
+      "Post": 3,
+      "Name": "U Pomníku",
+      "Latitude": 50.6901245,
+      "Longitude": 13.9105721,
+      "Zone": 122
+    },
+    {
+      "Node": 1343,
+      "Post": 4,
+      "Name": "U Pomníku",
+      "Latitude": 50.6901436,
+      "Longitude": 13.9105682,
+      "Zone": 122
+    },
+    {
+      "Node": 1344,
+      "Post": 1,
+      "Name": "Přestanov",
+      "Latitude": 50.686,
+      "Longitude": 13.92079,
+      "Zone": 122
+    },
+    {
+      "Node": 1344,
+      "Post": 2,
+      "Name": "Přestanov",
+      "Latitude": 50.68594,
+      "Longitude": 13.9207182,
+      "Zone": 122
+    },
+    {
+      "Node": 1344,
+      "Post": 3,
+      "Name": "Přestanov",
+      "Latitude": 50.6848068,
+      "Longitude": 13.9197464,
+      "Zone": 122
+    },
+    {
+      "Node": 1344,
+      "Post": 4,
+      "Name": "Přestanov",
+      "Latitude": 50.6848564,
+      "Longitude": 13.9194775,
+      "Zone": 122
+    },
+    {
+      "Node": 1491,
+      "Post": 1,
+      "Name": "Svádov osada",
+      "Latitude": 50.6615639,
+      "Longitude": 14.0955248,
+      "Zone": 101
+    },
+    {
+      "Node": 1491,
+      "Post": 2,
+      "Name": "Svádov osada",
+      "Latitude": 50.66176,
+      "Longitude": 14.0961666,
+      "Zone": 101
+    },
+    {
+      "Node": 1492,
+      "Post": 1,
+      "Name": "Svádov nádraží",
+      "Latitude": 50.66334,
+      "Longitude": 14.1018553,
+      "Zone": 101
+    },
+    {
+      "Node": 1492,
+      "Post": 2,
+      "Name": "Svádov nádraží",
+      "Latitude": 50.663475,
+      "Longitude": 14.1019115,
+      "Zone": 101
+    },
+    {
+      "Node": 1492,
+      "Post": 92,
+      "Name": "Svádov",
+      "Latitude": 50.66317,
+      "Longitude": 14.1033516,
+      "Zone": 101
+    },
+    {
+      "Node": 1492,
+      "Post": 101,
+      "Name": "Svádov",
+      "Latitude": 50.66317,
+      "Longitude": 14.1033516,
+      "Zone": 101
+    },
+    {
+      "Node": 1549,
+      "Post": 1,
+      "Name": "Zadní Telnice",
+      "Latitude": 50.73585,
+      "Longitude": 13.9268112,
+      "Zone": 124
+    },
+    {
+      "Node": 1550,
+      "Post": 1,
+      "Name": "Telnice,žel.st.",
+      "Latitude": 50.7279129,
+      "Longitude": 13.96386,
+      "Zone": 124
+    },
+    {
+      "Node": 1550,
+      "Post": 2,
+      "Name": "Telnice,žel.st.",
+      "Latitude": 50.7279129,
+      "Longitude": 13.96386,
+      "Zone": 124
+    },
+    {
+      "Node": 1550,
+      "Post": 92,
+      "Name": "Telnice",
+      "Latitude": 50.7279129,
+      "Longitude": 13.96386,
+      "Zone": 124
+    },
+    {
+      "Node": 1649,
+      "Post": 1,
+      "Name": "Bělský můstek",
+      "Latitude": 50.6465,
+      "Longitude": 14.0052986,
+      "Zone": 101
+    },
+    {
+      "Node": 1649,
+      "Post": 2,
+      "Name": "Bělský můstek",
+      "Latitude": 50.647007,
+      "Longitude": 14.0056982,
+      "Zone": 101
+    },
+    {
+      "Node": 1650,
+      "Post": 1,
+      "Name": "Globus",
+      "Latitude": 50.6509438,
+      "Longitude": 14.00334,
+      "Zone": 101
+    },
+    {
+      "Node": 1650,
+      "Post": 2,
+      "Name": "Globus",
+      "Latitude": 50.65119,
+      "Longitude": 14.003356,
+      "Zone": 101
+    },
+    {
+      "Node": 1652,
+      "Post": 1,
+      "Name": "Nová škola",
+      "Latitude": 50.64488,
+      "Longitude": 14.00465,
+      "Zone": 101
+    },
+    {
+      "Node": 1654,
+      "Post": 1,
+      "Name": "Stará škola",
+      "Latitude": 50.64304,
+      "Longitude": 13.9979372,
+      "Zone": 101
+    },
+    {
+      "Node": 1654,
+      "Post": 2,
+      "Name": "Stará škola",
+      "Latitude": 50.6430168,
+      "Longitude": 13.9975853,
+      "Zone": 101
+    },
+    {
+      "Node": 1656,
+      "Post": 1,
+      "Name": "Václavské nám.",
+      "Latitude": 50.64304,
+      "Longitude": 13.9940662,
+      "Zone": 101
+    },
+    {
+      "Node": 1656,
+      "Post": 2,
+      "Name": "Václavské nám.",
+      "Latitude": 50.6426163,
+      "Longitude": 13.99429,
+      "Zone": 101
+    },
+    {
+      "Node": 1657,
+      "Post": 1,
+      "Name": "Za Humny",
+      "Latitude": 50.6424332,
+      "Longitude": 14.0021439,
+      "Zone": 101
+    },
+    {
+      "Node": 1657,
+      "Post": 2,
+      "Name": "Za Humny",
+      "Latitude": 50.6428146,
+      "Longitude": 14.0033436,
+      "Zone": 101
+    },
+    {
+      "Node": 1716,
+      "Post": 1,
+      "Name": "Božtěšice",
+      "Latitude": 50.6893578,
+      "Longitude": 14.0183783,
+      "Zone": 101
+    },
+    {
+      "Node": 1716,
+      "Post": 2,
+      "Name": "Božtěšice",
+      "Latitude": 50.6893425,
+      "Longitude": 14.0182037,
+      "Zone": 101
+    },
+    {
+      "Node": 1717,
+      "Post": 1,
+      "Name": "Městský stadion",
+      "Latitude": 50.67497,
+      "Longitude": 14.0157919,
+      "Zone": 101
+    },
+    {
+      "Node": 1717,
+      "Post": 2,
+      "Name": "Městský stadion",
+      "Latitude": 50.6763039,
+      "Longitude": 14.014164,
+      "Zone": 101
+    },
+    {
+      "Node": 1718,
+      "Post": 1,
+      "Name": "Bukov sanatorium",
+      "Latitude": 50.6821861,
+      "Longitude": 14.0202694,
+      "Zone": 101
+    },
+    {
+      "Node": 1718,
+      "Post": 2,
+      "Name": "Bukov sanatorium",
+      "Latitude": 50.6818275,
+      "Longitude": 14.0203266,
+      "Zone": 101
+    },
+    {
+      "Node": 1721,
+      "Post": 1,
+      "Name": "Kojetice",
+      "Latitude": 50.6451454,
+      "Longitude": 14.0876274,
+      "Zone": 101
+    },
+    {
+      "Node": 1721,
+      "Post": 2,
+      "Name": "Kojetice",
+      "Latitude": 50.6454048,
+      "Longitude": 14.0872993,
+      "Zone": 101
+    },
+    {
+      "Node": 1722,
+      "Post": 1,
+      "Name": "Mojžíř,sídl.",
+      "Latitude": 50.6804733,
+      "Longitude": 14.1149654,
+      "Zone": 101
+    },
+    {
+      "Node": 1722,
+      "Post": 2,
+      "Name": "Mojžíř,sídl.",
+      "Latitude": 50.6808357,
+      "Longitude": 14.1154184,
+      "Zone": 101
+    },
+    {
+      "Node": 1724,
+      "Post": 1,
+      "Name": "OD Květ",
+      "Latitude": 50.6729431,
+      "Longitude": 14.105176,
+      "Zone": 101
+    },
+    {
+      "Node": 1724,
+      "Post": 2,
+      "Name": "OD Květ",
+      "Latitude": 50.67293,
+      "Longitude": 14.1046944,
+      "Zone": 101
+    },
+    {
+      "Node": 1725,
+      "Post": 1,
+      "Name": "Severní Terasa",
+      "Latitude": 50.67984,
+      "Longitude": 14.0257816,
+      "Zone": 101
+    },
+    {
+      "Node": 1725,
+      "Post": 2,
+      "Name": "Severní Terasa",
+      "Latitude": 50.6799965,
+      "Longitude": 14.0259142,
+      "Zone": 101
+    },
+    {
+      "Node": 1725,
+      "Post": 3,
+      "Name": "Severní Terasa",
+      "Latitude": 50.6801262,
+      "Longitude": 14.0253048,
+      "Zone": 101
+    },
+    {
+      "Node": 1726,
+      "Post": 1,
+      "Name": "Strážky obec",
+      "Latitude": 50.7065849,
+      "Longitude": 14.0155411,
+      "Zone": 101
+    },
+    {
+      "Node": 1726,
+      "Post": 2,
+      "Name": "Strážky obec",
+      "Latitude": 50.7064972,
+      "Longitude": 14.0155439,
+      "Zone": 101
+    },
+    {
+      "Node": 1727,
+      "Post": 1,
+      "Name": "U Českého Újezdu",
+      "Latitude": 50.685997,
+      "Longitude": 13.9612341,
+      "Zone": 101
+    },
+    {
+      "Node": 1727,
+      "Post": 2,
+      "Name": "U Českého Újezdu",
+      "Latitude": 50.68606,
+      "Longitude": 13.9610062,
+      "Zone": 101
+    },
+    {
+      "Node": 1728,
+      "Post": 1,
+      "Name": "Všebořice obchodní centrum",
+      "Latitude": 50.68955,
+      "Longitude": 13.9844608,
+      "Zone": 101
+    },
+    {
+      "Node": 1728,
+      "Post": 2,
+      "Name": "Všebořice obchodní centrum",
+      "Latitude": 50.6899033,
+      "Longitude": 13.9810038,
+      "Zone": 101
+    },
+    {
+      "Node": 1729,
+      "Post": 1,
+      "Name": "Beethovenova",
+      "Latitude": 50.6724434,
+      "Longitude": 14.0205164,
+      "Zone": 101
+    },
+    {
+      "Node": 1729,
+      "Post": 2,
+      "Name": "Beethovenova",
+      "Latitude": 50.6731033,
+      "Longitude": 14.0198441,
+      "Zone": 101
+    },
+    {
+      "Node": 1730,
+      "Post": 1,
+      "Name": "Bělehradská",
+      "Latitude": 50.67135,
+      "Longitude": 14.0338631,
+      "Zone": 101
+    },
+    {
+      "Node": 1730,
+      "Post": 2,
+      "Name": "Bělehradská",
+      "Latitude": 50.6707039,
+      "Longitude": 14.0344067,
+      "Zone": 101
+    },
+    {
+      "Node": 1731,
+      "Post": 1,
+      "Name": "Božtěšická",
+      "Latitude": 50.68464,
+      "Longitude": 14.0175076,
+      "Zone": 101
+    },
+    {
+      "Node": 1731,
+      "Post": 2,
+      "Name": "Božtěšická",
+      "Latitude": 50.6845,
+      "Longitude": 14.01736,
+      "Zone": 101
+    },
+    {
+      "Node": 1732,
+      "Post": 1,
+      "Name": "Bukov",
+      "Latitude": 50.6789932,
+      "Longitude": 14.00919,
+      "Zone": 101
+    },
+    {
+      "Node": 1732,
+      "Post": 2,
+      "Name": "Bukov",
+      "Latitude": 50.679348,
+      "Longitude": 14.0090017,
+      "Zone": 101
+    },
+    {
+      "Node": 1733,
+      "Post": 1,
+      "Name": "Bukov rondel",
+      "Latitude": 50.68052,
+      "Longitude": 14.0068769,
+      "Zone": 101
+    },
+    {
+      "Node": 1734,
+      "Post": 1,
+      "Name": "Divadlo",
+      "Latitude": 50.6601639,
+      "Longitude": 14.0353966,
+      "Zone": 101
+    },
+    {
+      "Node": 1734,
+      "Post": 2,
+      "Name": "Divadlo",
+      "Latitude": 50.65951,
+      "Longitude": 14.0364437,
+      "Zone": 101
+    },
+    {
+      "Node": 1734,
+      "Post": 3,
+      "Name": "Divadlo",
+      "Latitude": 50.6603355,
+      "Longitude": 14.0353975,
+      "Zone": 101
+    },
+    {
+      "Node": 1734,
+      "Post": 4,
+      "Name": "Divadlo",
+      "Latitude": 50.6595039,
+      "Longitude": 14.03595,
+      "Zone": 101
+    },
+    {
+      "Node": 1734,
+      "Post": 5,
+      "Name": "Divadlo",
+      "Latitude": 50.6596,
+      "Longitude": 14.034483,
+      "Zone": 101
+    },
+    {
+      "Node": 1734,
+      "Post": 6,
+      "Name": "Divadlo",
+      "Latitude": 50.65942,
+      "Longitude": 14.0364666,
+      "Zone": 101
+    },
+    {
+      "Node": 1734,
+      "Post": 7,
+      "Name": "Divadlo",
+      "Latitude": 50.65966,
+      "Longitude": 14.0359507,
+      "Zone": 101
+    },
+    {
+      "Node": 1734,
+      "Post": 8,
+      "Name": "Divadlo",
+      "Latitude": 50.6594048,
+      "Longitude": 14.0361052,
+      "Zone": 101
+    },
+    {
+      "Node": 1735,
+      "Post": 1,
+      "Name": "Elba",
+      "Latitude": 50.67821,
+      "Longitude": 14.0357285,
+      "Zone": 101
+    },
+    {
+      "Node": 1735,
+      "Post": 2,
+      "Name": "Elba",
+      "Latitude": 50.6783028,
+      "Longitude": 14.0361052,
+      "Zone": 101
+    },
+    {
+      "Node": 1736,
+      "Post": 1,
+      "Name": "Hilarova",
+      "Latitude": 50.6666756,
+      "Longitude": 14.036273,
+      "Zone": 101
+    },
+    {
+      "Node": 1736,
+      "Post": 2,
+      "Name": "Hilarova",
+      "Latitude": 50.666523,
+      "Longitude": 14.0364914,
+      "Zone": 101
+    },
+    {
+      "Node": 1737,
+      "Post": 1,
+      "Name": "hl.nádr.",
+      "Latitude": 50.6595154,
+      "Longitude": 14.0437155,
+      "Zone": 101
+    },
+    {
+      "Node": 1737,
+      "Post": 2,
+      "Name": "hl.nádr.",
+      "Latitude": 50.6595421,
+      "Longitude": 14.0435991,
+      "Zone": 101
+    },
+    {
+      "Node": 1737,
+      "Post": 92,
+      "Name": "Ústí nad Labem hlavní nádraží",
+      "Latitude": 50.65949,
+      "Longitude": 14.0445786,
+      "Zone": 101
+    },
+    {
+      "Node": 1737,
+      "Post": 101,
+      "Name": "Ústí n.L.hlavní nádr.",
+      "Latitude": 50.65949,
+      "Longitude": 14.0445786,
+      "Zone": 101
+    },
+    {
+      "Node": 1737,
+      "Post": 201,
+      "Name": "přístaviště Centrum",
+      "Latitude": 50.6590538,
+      "Longitude": 14.0453005,
+      "Zone": 101
+    },
+    {
+      "Node": 1738,
+      "Post": 1,
+      "Name": "Hraničář",
+      "Latitude": 50.6635971,
+      "Longitude": 14.0330677,
+      "Zone": 101
+    },
+    {
+      "Node": 1738,
+      "Post": 2,
+      "Name": "Hraničář",
+      "Latitude": 50.6639748,
+      "Longitude": 14.0330276,
+      "Zone": 101
+    },
+    {
+      "Node": 1738,
+      "Post": 3,
+      "Name": "Hraničář",
+      "Latitude": 50.6630669,
+      "Longitude": 14.0334148,
+      "Zone": 101
+    },
+    {
+      "Node": 1738,
+      "Post": 4,
+      "Name": "Hraničář",
+      "Latitude": 50.66324,
+      "Longitude": 14.0335169,
+      "Zone": 101
+    },
+    {
+      "Node": 1739,
+      "Post": 1,
+      "Name": "Kamenný Vrch",
+      "Latitude": 50.65423,
+      "Longitude": 14.0662527,
+      "Zone": 101
+    },
+    {
+      "Node": 1739,
+      "Post": 2,
+      "Name": "Kamenný Vrch",
+      "Latitude": 50.6538544,
+      "Longitude": 14.0662956,
+      "Zone": 101
+    },
+    {
+      "Node": 1740,
+      "Post": 1,
+      "Name": "Kamenný Vrch škola",
+      "Latitude": 50.65738,
+      "Longitude": 14.06271,
+      "Zone": 101
+    },
+    {
+      "Node": 1740,
+      "Post": 2,
+      "Name": "Kamenný Vrch škola",
+      "Latitude": 50.65705,
+      "Longitude": 14.0610933,
+      "Zone": 101
+    },
+    {
+      "Node": 1742,
+      "Post": 1,
+      "Name": "Lipová",
+      "Latitude": 50.6855278,
+      "Longitude": 13.9931984,
+      "Zone": 101
+    },
+    {
+      "Node": 1742,
+      "Post": 2,
+      "Name": "Lipová",
+      "Latitude": 50.6857567,
+      "Longitude": 13.9931374,
+      "Zone": 101
+    },
+    {
+      "Node": 1743,
+      "Post": 1,
+      "Name": "K Loděnici",
+      "Latitude": 50.6583824,
+      "Longitude": 14.0682058,
+      "Zone": 101
+    },
+    {
+      "Node": 1743,
+      "Post": 2,
+      "Name": "K Loděnici",
+      "Latitude": 50.6583939,
+      "Longitude": 14.0688705,
+      "Zone": 101
+    },
+    {
+      "Node": 1744,
+      "Post": 1,
+      "Name": "Malá Hradební",
+      "Latitude": 50.6580772,
+      "Longitude": 14.0400219,
+      "Zone": 101
+    },
+    {
+      "Node": 1744,
+      "Post": 2,
+      "Name": "Malá Hradební",
+      "Latitude": 50.6581039,
+      "Longitude": 14.0396061,
+      "Zone": 101
+    },
+    {
+      "Node": 1745,
+      "Post": 1,
+      "Name": "Masarykova nem.",
+      "Latitude": 50.6804237,
+      "Longitude": 14.0230751,
+      "Zone": 101
+    },
+    {
+      "Node": 1745,
+      "Post": 2,
+      "Name": "Masarykova nem.",
+      "Latitude": 50.68009,
+      "Longitude": 14.0231256,
+      "Zone": 101
+    },
+    {
+      "Node": 1746,
+      "Post": 1,
+      "Name": "Mírové nám.",
+      "Latitude": 50.6604767,
+      "Longitude": 14.0425539,
+      "Zone": 101
+    },
+    {
+      "Node": 1746,
+      "Post": 3,
+      "Name": "Mírové nám.",
+      "Latitude": 50.66056,
+      "Longitude": 14.04326,
+      "Zone": 101
+    },
+    {
+      "Node": 1748,
+      "Post": 1,
+      "Name": "Nové Předlice",
+      "Latitude": 50.65551,
+      "Longitude": 14.002141,
+      "Zone": 101
+    },
+    {
+      "Node": 1748,
+      "Post": 2,
+      "Name": "Nové Předlice",
+      "Latitude": 50.6556,
+      "Longitude": 14.0019474,
+      "Zone": 101
+    },
+    {
+      "Node": 1748,
+      "Post": 3,
+      "Name": "Nové Předlice",
+      "Latitude": 50.6561432,
+      "Longitude": 14.0016851,
+      "Zone": 101
+    },
+    {
+      "Node": 1748,
+      "Post": 4,
+      "Name": "Nové Předlice",
+      "Latitude": 50.6565857,
+      "Longitude": 14.0006161,
+      "Zone": 101
+    },
+    {
+      "Node": 1749,
+      "Post": 1,
+      "Name": "Olšinky",
+      "Latitude": 50.6595726,
+      "Longitude": 14.0814638,
+      "Zone": 101
+    },
+    {
+      "Node": 1749,
+      "Post": 2,
+      "Name": "Olšinky",
+      "Latitude": 50.6597176,
+      "Longitude": 14.08146,
+      "Zone": 101
+    },
+    {
+      "Node": 1750,
+      "Post": 1,
+      "Name": "Havířská",
+      "Latitude": 50.6879,
+      "Longitude": 13.9682369,
+      "Zone": 101
+    },
+    {
+      "Node": 1750,
+      "Post": 2,
+      "Name": "Havířská",
+      "Latitude": 50.6879921,
+      "Longitude": 13.9674263,
+      "Zone": 101
+    },
+    {
+      "Node": 1751,
+      "Post": 1,
+      "Name": "Pivovar",
+      "Latitude": 50.6657639,
+      "Longitude": 14.0771427,
+      "Zone": 101
+    },
+    {
+      "Node": 1751,
+      "Post": 2,
+      "Name": "Pivovar",
+      "Latitude": 50.6657333,
+      "Longitude": 14.075983,
+      "Zone": 101
+    },
+    {
+      "Node": 1752,
+      "Post": 1,
+      "Name": "Pod Holoměří",
+      "Latitude": 50.6801872,
+      "Longitude": 14.012269,
+      "Zone": 101
+    },
+    {
+      "Node": 1752,
+      "Post": 2,
+      "Name": "Pod Holoměří",
+      "Latitude": 50.68046,
+      "Longitude": 14.0121994,
+      "Zone": 101
+    },
+    {
+      "Node": 1752,
+      "Post": 3,
+      "Name": "Pod Holoměří",
+      "Latitude": 50.68157,
+      "Longitude": 14.0118437,
+      "Zone": 101
+    },
+    {
+      "Node": 1752,
+      "Post": 4,
+      "Name": "Pod Holoměří",
+      "Latitude": 50.6805534,
+      "Longitude": 14.0095806,
+      "Zone": 101
+    },
+    {
+      "Node": 1753,
+      "Post": 1,
+      "Name": "Poliklinika",
+      "Latitude": 50.66638,
+      "Longitude": 14.03041,
+      "Zone": 101
+    },
+    {
+      "Node": 1753,
+      "Post": 2,
+      "Name": "Poliklinika",
+      "Latitude": 50.6663933,
+      "Longitude": 14.0290079,
+      "Zone": 101
+    },
+    {
+      "Node": 1753,
+      "Post": 3,
+      "Name": "Poliklinika",
+      "Latitude": 50.66755,
+      "Longitude": 14.0287123,
+      "Zone": 101
+    },
+    {
+      "Node": 1754,
+      "Post": 1,
+      "Name": "Pětidomí",
+      "Latitude": 50.6564751,
+      "Longitude": 14.0133362,
+      "Zone": 101
+    },
+    {
+      "Node": 1754,
+      "Post": 2,
+      "Name": "Pětidomí",
+      "Latitude": 50.65639,
+      "Longitude": 14.0146894,
+      "Zone": 101
+    },
+    {
+      "Node": 1755,
+      "Post": 1,
+      "Name": "Staré Předlice",
+      "Latitude": 50.6582222,
+      "Longitude": 13.9897184,
+      "Zone": 101
+    },
+    {
+      "Node": 1755,
+      "Post": 2,
+      "Name": "Staré Předlice",
+      "Latitude": 50.6588936,
+      "Longitude": 13.9868641,
+      "Zone": 101
+    },
+    {
+      "Node": 1756,
+      "Post": 1,
+      "Name": "Všebořická",
+      "Latitude": 50.68291,
+      "Longitude": 13.998147,
+      "Zone": 101
+    },
+    {
+      "Node": 1756,
+      "Post": 2,
+      "Name": "Všebořická",
+      "Latitude": 50.6829948,
+      "Longitude": 13.9984,
+      "Zone": 101
+    },
+    {
+      "Node": 1757,
+      "Post": 1,
+      "Name": "Západní nádr.",
+      "Latitude": 50.6591263,
+      "Longitude": 14.0303736,
+      "Zone": 101
+    },
+    {
+      "Node": 1757,
+      "Post": 2,
+      "Name": "Západní nádr.",
+      "Latitude": 50.65895,
+      "Longitude": 14.0300817,
+      "Zone": 101
+    },
+    {
+      "Node": 1757,
+      "Post": 92,
+      "Name": "Ústí nad Labem západ",
+      "Latitude": 50.65815,
+      "Longitude": 14.0297108,
+      "Zone": 101
+    },
+    {
+      "Node": 1757,
+      "Post": 101,
+      "Name": "Ústí n.L.západ",
+      "Latitude": 50.65815,
+      "Longitude": 14.0297108,
+      "Zone": 101
+    },
+    {
+      "Node": 2363,
+      "Post": 1,
+      "Name": "Podhoří",
+      "Latitude": 50.69145,
+      "Longitude": 13.9795742,
+      "Zone": 101
+    },
+    {
+      "Node": 2363,
+      "Post": 2,
+      "Name": "Podhoří",
+      "Latitude": 50.6916161,
+      "Longitude": 13.97939,
+      "Zone": 101
+    },
+    {
+      "Node": 2640,
+      "Post": 1,
+      "Name": "U Vozovny",
+      "Latitude": 50.65726,
+      "Longitude": 13.99572,
+      "Zone": 101
+    },
+    {
+      "Node": 2640,
+      "Post": 2,
+      "Name": "U Vozovny",
+      "Latitude": 50.65726,
+      "Longitude": 13.9969511,
+      "Zone": 101
+    },
+    {
+      "Node": 2641,
+      "Post": 1,
+      "Name": "Střekov nádraží",
+      "Latitude": 50.651,
+      "Longitude": 14.047574,
+      "Zone": 101
+    },
+    {
+      "Node": 2677,
+      "Post": 1,
+      "Name": "odb.Neznabohy",
+      "Latitude": 50.6966934,
+      "Longitude": 14.0182991,
+      "Zone": 101
+    },
+    {
+      "Node": 2678,
+      "Post": 1,
+      "Name": "Sociální péče",
+      "Latitude": 50.6772728,
+      "Longitude": 14.0283909,
+      "Zone": 101
+    },
+    {
+      "Node": 2678,
+      "Post": 2,
+      "Name": "Sociální péče",
+      "Latitude": 50.67794,
+      "Longitude": 14.0276985,
+      "Zone": 101
+    },
+    {
+      "Node": 2731,
+      "Post": 1,
+      "Name": "Trmice,Zámecká",
+      "Latitude": 50.6455498,
+      "Longitude": 13.9909096,
+      "Zone": 101
+    },
+    {
+      "Node": 2731,
+      "Post": 2,
+      "Name": "Trmice,Zámecká",
+      "Latitude": 50.6455498,
+      "Longitude": 13.9909096,
+      "Zone": 101
+    },
+    {
+      "Node": 12001,
+      "Post": 1,
+      "Name": "Anežky České",
+      "Latitude": 50.67181,
+      "Longitude": 14.07587,
+      "Zone": 101
+    },
+    {
+      "Node": 12001,
+      "Post": 2,
+      "Name": "Anežky České",
+      "Latitude": 50.6718521,
+      "Longitude": 14.0760412,
+      "Zone": 101
+    },
+    {
+      "Node": 12002,
+      "Post": 1,
+      "Name": "Autoškola",
+      "Latitude": 50.66603,
+      "Longitude": 14.065937,
+      "Zone": 101
+    },
+    {
+      "Node": 12002,
+      "Post": 2,
+      "Name": "Autoškola",
+      "Latitude": 50.6664276,
+      "Longitude": 14.06609,
+      "Zone": 101
+    },
+    {
+      "Node": 12003,
+      "Post": 1,
+      "Name": "Bezejmenná",
+      "Latitude": 50.66302,
+      "Longitude": 13.9941616,
+      "Zone": 101
+    },
+    {
+      "Node": 12003,
+      "Post": 2,
+      "Name": "Bezejmenná",
+      "Latitude": 50.66302,
+      "Longitude": 13.9941616,
+      "Zone": 101
+    },
+    {
+      "Node": 12004,
+      "Post": 1,
+      "Name": "Bezručova",
+      "Latitude": 50.6685524,
+      "Longitude": 14.0220757,
+      "Zone": 101
+    },
+    {
+      "Node": 12004,
+      "Post": 2,
+      "Name": "Bezručova",
+      "Latitude": 50.6685524,
+      "Longitude": 14.0220757,
+      "Zone": 101
+    },
+    {
+      "Node": 12005,
+      "Post": 1,
+      "Name": "Božtěšice obec",
+      "Latitude": 50.6892624,
+      "Longitude": 14.02001,
+      "Zone": 101
+    },
+    {
+      "Node": 12005,
+      "Post": 2,
+      "Name": "Božtěšice obec",
+      "Latitude": 50.6894379,
+      "Longitude": 14.0201464,
+      "Zone": 101
+    },
+    {
+      "Node": 12006,
+      "Post": 1,
+      "Name": "Brná",
+      "Latitude": 50.6207008,
+      "Longitude": 14.0784197,
+      "Zone": 101
+    },
+    {
+      "Node": 12006,
+      "Post": 2,
+      "Name": "Brná",
+      "Latitude": 50.6207008,
+      "Longitude": 14.0784197,
+      "Zone": 101
+    },
+    {
+      "Node": 12006,
+      "Post": 3,
+      "Name": "Brná",
+      "Latitude": 50.6207008,
+      "Longitude": 14.0784197,
+      "Zone": 101
+    },
+    {
+      "Node": 12006,
+      "Post": 4,
+      "Name": "Brná",
+      "Latitude": 50.6207008,
+      "Longitude": 14.0784197,
+      "Zone": 101
+    },
+    {
+      "Node": 12007,
+      "Post": 1,
+      "Name": "Brná,osada",
+      "Latitude": 50.62519,
+      "Longitude": 14.0742779,
+      "Zone": 101
+    },
+    {
+      "Node": 12007,
+      "Post": 2,
+      "Name": "Brná,osada",
+      "Latitude": 50.6250343,
+      "Longitude": 14.0742,
+      "Zone": 101
+    },
+    {
+      "Node": 12008,
+      "Post": 1,
+      "Name": "Církvice",
+      "Latitude": 50.5893974,
+      "Longitude": 14.0367212,
+      "Zone": 101
+    },
+    {
+      "Node": 12008,
+      "Post": 2,
+      "Name": "Církvice",
+      "Latitude": 50.58941,
+      "Longitude": 14.0365267,
+      "Zone": 101
+    },
+    {
+      "Node": 12009,
+      "Post": 1,
+      "Name": "Cukrovar",
+      "Latitude": 50.6465874,
+      "Longitude": 14.0435228,
+      "Zone": 101
+    },
+    {
+      "Node": 12009,
+      "Post": 2,
+      "Name": "Cukrovar",
+      "Latitude": 50.6474342,
+      "Longitude": 14.0430593,
+      "Zone": 101
+    },
+    {
+      "Node": 12010,
+      "Post": 1,
+      "Name": "Čajkovského",
+      "Latitude": 50.65062,
+      "Longitude": 14.0420122,
+      "Zone": 101
+    },
+    {
+      "Node": 12010,
+      "Post": 2,
+      "Name": "Čajkovského",
+      "Latitude": 50.6509438,
+      "Longitude": 14.041748,
+      "Zone": 101
+    },
+    {
+      "Node": 12011,
+      "Post": 1,
+      "Name": "ČOV",
+      "Latitude": 50.6590652,
+      "Longitude": 14.05811,
+      "Zone": 101
+    },
+    {
+      "Node": 12011,
+      "Post": 2,
+      "Name": "ČOV",
+      "Latitude": 50.659523,
+      "Longitude": 14.06002,
+      "Zone": 101
+    },
+    {
+      "Node": 12012,
+      "Post": 1,
+      "Name": "Děčínská",
+      "Latitude": 50.6549149,
+      "Longitude": 14.0488167,
+      "Zone": 101
+    },
+    {
+      "Node": 12012,
+      "Post": 2,
+      "Name": "Děčínská",
+      "Latitude": 50.6552849,
+      "Longitude": 14.04895,
+      "Zone": 101
+    },
+    {
+      "Node": 12013,
+      "Post": 1,
+      "Name": "Dílny",
+      "Latitude": 50.65669,
+      "Longitude": 14.0223427,
+      "Zone": 101
+    },
+    {
+      "Node": 12013,
+      "Post": 2,
+      "Name": "Dílny",
+      "Latitude": 50.6567879,
+      "Longitude": 14.0222759,
+      "Zone": 101
+    },
+    {
+      "Node": 12014,
+      "Post": 1,
+      "Name": "Dobětice",
+      "Latitude": 50.67469,
+      "Longitude": 14.0572243,
+      "Zone": 101
+    },
+    {
+      "Node": 12014,
+      "Post": 2,
+      "Name": "Dobětice",
+      "Latitude": 50.6746368,
+      "Longitude": 14.0574942,
+      "Zone": 101
+    },
+    {
+      "Node": 12015,
+      "Post": 1,
+      "Name": "Dobětice točna",
+      "Latitude": 50.6750298,
+      "Longitude": 14.0582895,
+      "Zone": 101
+    },
+    {
+      "Node": 12015,
+      "Post": 2,
+      "Name": "Dobětice točna",
+      "Latitude": 50.6750298,
+      "Longitude": 14.0582895,
+      "Zone": 101
+    },
+    {
+      "Node": 12016,
+      "Post": 1,
+      "Name": "Dolní Zálezly",
+      "Latitude": 50.59622,
+      "Longitude": 14.0426321,
+      "Zone": 101
+    },
+    {
+      "Node": 12016,
+      "Post": 2,
+      "Name": "Dolní Zálezly",
+      "Latitude": 50.59622,
+      "Longitude": 14.0426321,
+      "Zone": 101
+    },
+    {
+      "Node": 12017,
+      "Post": 1,
+      "Name": "Drážní",
+      "Latitude": 50.6560402,
+      "Longitude": 14.0324402,
+      "Zone": 101
+    },
+    {
+      "Node": 12017,
+      "Post": 2,
+      "Name": "Drážní",
+      "Latitude": 50.6560402,
+      "Longitude": 14.0324402,
+      "Zone": 101
+    },
+    {
+      "Node": 12018,
+      "Post": 1,
+      "Name": "Dukelských hrdinů",
+      "Latitude": 50.6848373,
+      "Longitude": 13.9988527,
+      "Zone": 101
+    },
+    {
+      "Node": 12018,
+      "Post": 2,
+      "Name": "Dukelských hrdinů",
+      "Latitude": 50.68452,
+      "Longitude": 13.999671,
+      "Zone": 101
+    },
+    {
+      "Node": 12019,
+      "Post": 1,
+      "Name": "Důlce",
+      "Latitude": 50.6642838,
+      "Longitude": 14.0463037,
+      "Zone": 101
+    },
+    {
+      "Node": 12019,
+      "Post": 2,
+      "Name": "Důlce",
+      "Latitude": 50.66425,
+      "Longitude": 14.0464773,
+      "Zone": 101
+    },
+    {
+      "Node": 12020,
+      "Post": 1,
+      "Name": "Dvojdomí",
+      "Latitude": 50.6710663,
+      "Longitude": 14.0670834,
+      "Zone": 101
+    },
+    {
+      "Node": 12020,
+      "Post": 2,
+      "Name": "Dvojdomí",
+      "Latitude": 50.6708527,
+      "Longitude": 14.0674381,
+      "Zone": 101
+    },
+    {
+      "Node": 12021,
+      "Post": 1,
+      "Name": "Edisonova",
+      "Latitude": 50.6458388,
+      "Longitude": 13.9867829,
+      "Zone": 101
+    },
+    {
+      "Node": 12021,
+      "Post": 2,
+      "Name": "Edisonova",
+      "Latitude": 50.6458388,
+      "Longitude": 13.9867829,
+      "Zone": 101
+    },
+    {
+      "Node": 12022,
+      "Post": 1,
+      "Name": "Fibichova",
+      "Latitude": 50.6539001,
+      "Longitude": 14.0274801,
+      "Zone": 101
+    },
+    {
+      "Node": 12022,
+      "Post": 2,
+      "Name": "Fibichova",
+      "Latitude": 50.6539001,
+      "Longitude": 14.0274801,
+      "Zone": 101
+    },
+    {
+      "Node": 12023,
+      "Post": 1,
+      "Name": "Gagarinova",
+      "Latitude": 50.6817551,
+      "Longitude": 14.0249462,
+      "Zone": 101
+    },
+    {
+      "Node": 12023,
+      "Post": 2,
+      "Name": "Gagarinova",
+      "Latitude": 50.68198,
+      "Longitude": 14.02509,
+      "Zone": 101
+    },
+    {
+      "Node": 12024,
+      "Post": 1,
+      "Name": "Gogolova",
+      "Latitude": 50.6437645,
+      "Longitude": 13.9945517,
+      "Zone": 101
+    },
+    {
+      "Node": 12024,
+      "Post": 2,
+      "Name": "Gogolova",
+      "Latitude": 50.64388,
+      "Longitude": 13.9944725,
+      "Zone": 101
+    },
+    {
+      "Node": 12025,
+      "Post": 1,
+      "Name": "Habrovice",
+      "Latitude": 50.7020569,
+      "Longitude": 14.0027437,
+      "Zone": 101
+    },
+    {
+      "Node": 12025,
+      "Post": 2,
+      "Name": "Habrovice",
+      "Latitude": 50.702076,
+      "Longitude": 14.002903,
+      "Zone": 101
+    },
+    {
+      "Node": 12026,
+      "Post": 1,
+      "Name": "Habrovice koupaliště",
+      "Latitude": 50.6952477,
+      "Longitude": 14.0028286,
+      "Zone": 101
+    },
+    {
+      "Node": 12026,
+      "Post": 2,
+      "Name": "Habrovice koupaliště",
+      "Latitude": 50.6950874,
+      "Longitude": 14.0030489,
+      "Zone": 101
+    },
+    {
+      "Node": 12027,
+      "Post": 1,
+      "Name": "Habrovice škola",
+      "Latitude": 50.70389,
+      "Longitude": 14.001976,
+      "Zone": 101
+    },
+    {
+      "Node": 12027,
+      "Post": 2,
+      "Name": "Habrovice škola",
+      "Latitude": 50.7039528,
+      "Longitude": 14.0020475,
+      "Zone": 101
+    },
+    {
+      "Node": 12028,
+      "Post": 1,
+      "Name": "Habrovice vily",
+      "Latitude": 50.6994858,
+      "Longitude": 14.0014839,
+      "Zone": 101
+    },
+    {
+      "Node": 12028,
+      "Post": 2,
+      "Name": "Habrovice vily",
+      "Latitude": 50.6995659,
+      "Longitude": 14.0017424,
+      "Zone": 101
+    },
+    {
+      "Node": 12029,
+      "Post": 1,
+      "Name": "Habrovická",
+      "Latitude": 50.690197,
+      "Longitude": 14.0052214,
+      "Zone": 101
+    },
+    {
+      "Node": 12029,
+      "Post": 2,
+      "Name": "Habrovická",
+      "Latitude": 50.69033,
+      "Longitude": 14.0052338,
+      "Zone": 101
+    },
+    {
+      "Node": 12030,
+      "Post": 1,
+      "Name": "Hornická",
+      "Latitude": 50.67196,
+      "Longitude": 14.0280094,
+      "Zone": 101
+    },
+    {
+      "Node": 12030,
+      "Post": 2,
+      "Name": "Hornická",
+      "Latitude": 50.67213,
+      "Longitude": 14.0280638,
+      "Zone": 101
+    },
+    {
+      "Node": 12031,
+      "Post": 1,
+      "Name": "Hoření",
+      "Latitude": 50.6758614,
+      "Longitude": 14.0364704,
+      "Zone": 101
+    },
+    {
+      "Node": 12031,
+      "Post": 2,
+      "Name": "Hoření",
+      "Latitude": 50.6758614,
+      "Longitude": 14.0364704,
+      "Zone": 101
+    },
+    {
+      "Node": 12032,
+      "Post": 1,
+      "Name": "Hostovická",
+      "Latitude": 50.6500549,
+      "Longitude": 14.0213909,
+      "Zone": 101
+    },
+    {
+      "Node": 12032,
+      "Post": 2,
+      "Name": "Hostovická",
+      "Latitude": 50.6499939,
+      "Longitude": 14.0210428,
+      "Zone": 101
+    },
+    {
+      "Node": 12033,
+      "Post": 1,
+      "Name": "Hřbitov",
+      "Latitude": 50.6235046,
+      "Longitude": 14.0662689,
+      "Zone": 101
+    },
+    {
+      "Node": 12033,
+      "Post": 2,
+      "Name": "Hřbitov",
+      "Latitude": 50.6234131,
+      "Longitude": 14.0664186,
+      "Zone": 101
+    },
+    {
+      "Node": 12034,
+      "Post": 1,
+      "Name": "Jezero Milada",
+      "Latitude": 50.6459503,
+      "Longitude": 13.9835195,
+      "Zone": 101
+    },
+    {
+      "Node": 12034,
+      "Post": 2,
+      "Name": "Jezero Milada",
+      "Latitude": 50.6459503,
+      "Longitude": 13.9835195,
+      "Zone": 101
+    },
+    {
+      "Node": 12035,
+      "Post": 1,
+      "Name": "Jungmannova",
+      "Latitude": 50.6656532,
+      "Longitude": 14.070817,
+      "Zone": 101
+    },
+    {
+      "Node": 12035,
+      "Post": 2,
+      "Name": "Jungmannova",
+      "Latitude": 50.66569,
+      "Longitude": 14.0698109,
+      "Zone": 101
+    },
+    {
+      "Node": 12036,
+      "Post": 1,
+      "Name": "Kampus",
+      "Latitude": 50.66703,
+      "Longitude": 14.0252113,
+      "Zone": 101
+    },
+    {
+      "Node": 12036,
+      "Post": 2,
+      "Name": "Kampus",
+      "Latitude": 50.666378,
+      "Longitude": 14.0265741,
+      "Zone": 101
+    },
+    {
+      "Node": 12037,
+      "Post": 1,
+      "Name": "Kanon",
+      "Latitude": 50.6696243,
+      "Longitude": 14.0902634,
+      "Zone": 101
+    },
+    {
+      "Node": 12037,
+      "Post": 2,
+      "Name": "Kanon",
+      "Latitude": 50.6693878,
+      "Longitude": 14.09051,
+      "Zone": 101
+    },
+    {
+      "Node": 12038,
+      "Post": 1,
+      "Name": "Kapitána Jaroše",
+      "Latitude": 50.6819725,
+      "Longitude": 14.0032768,
+      "Zone": 101
+    },
+    {
+      "Node": 12038,
+      "Post": 2,
+      "Name": "Kapitána Jaroše",
+      "Latitude": 50.6822739,
+      "Longitude": 14.0030985,
+      "Zone": 101
+    },
+    {
+      "Node": 12039,
+      "Post": 1,
+      "Name": "Karla IV.",
+      "Latitude": 50.64608,
+      "Longitude": 14.0499802,
+      "Zone": 101
+    },
+    {
+      "Node": 12039,
+      "Post": 2,
+      "Name": "Karla IV.",
+      "Latitude": 50.64608,
+      "Longitude": 14.0499802,
+      "Zone": 101
+    },
+    {
+      "Node": 12039,
+      "Post": 4,
+      "Name": "Karla IV.",
+      "Latitude": 50.64608,
+      "Longitude": 14.0499802,
+      "Zone": 101
+    },
+    {
+      "Node": 12040,
+      "Post": 1,
+      "Name": "Karla Maye",
+      "Latitude": 50.609623,
+      "Longitude": 14.0766373,
+      "Zone": 101
+    },
+    {
+      "Node": 12040,
+      "Post": 2,
+      "Name": "Karla Maye",
+      "Latitude": 50.6098862,
+      "Longitude": 14.0764637,
+      "Zone": 101
+    },
+    {
+      "Node": 12041,
+      "Post": 1,
+      "Name": "Karolíny Světlé",
+      "Latitude": 50.66507,
+      "Longitude": 14.0870428,
+      "Zone": 101
+    },
+    {
+      "Node": 12041,
+      "Post": 2,
+      "Name": "Karolíny Světlé",
+      "Latitude": 50.66507,
+      "Longitude": 14.0870428,
+      "Zone": 101
+    },
+    {
+      "Node": 12042,
+      "Post": 1,
+      "Name": "Kaufland",
+      "Latitude": 50.66294,
+      "Longitude": 14.0205755,
+      "Zone": 101
+    },
+    {
+      "Node": 12042,
+      "Post": 2,
+      "Name": "Kaufland",
+      "Latitude": 50.6634521,
+      "Longitude": 14.0204191,
+      "Zone": 101
+    },
+    {
+      "Node": 12043,
+      "Post": 1,
+      "Name": "Keplerova",
+      "Latitude": 50.6696358,
+      "Longitude": 14.0782022,
+      "Zone": 101
+    },
+    {
+      "Node": 12043,
+      "Post": 2,
+      "Name": "Keplerova",
+      "Latitude": 50.6702423,
+      "Longitude": 14.07853,
+      "Zone": 101
+    },
+    {
+      "Node": 12044,
+      "Post": 1,
+      "Name": "Klíše Hvězda",
+      "Latitude": 50.668,
+      "Longitude": 14.0168743,
+      "Zone": 101
+    },
+    {
+      "Node": 12044,
+      "Post": 2,
+      "Name": "Klíše Hvězda",
+      "Latitude": 50.6680145,
+      "Longitude": 14.0159111,
+      "Zone": 101
+    },
+    {
+      "Node": 12045,
+      "Post": 1,
+      "Name": "Klíše lázně",
+      "Latitude": 50.6656265,
+      "Longitude": 14.0153589,
+      "Zone": 101
+    },
+    {
+      "Node": 12045,
+      "Post": 2,
+      "Name": "Klíše lázně",
+      "Latitude": 50.6656265,
+      "Longitude": 14.0153589,
+      "Zone": 101
+    },
+    {
+      "Node": 12045,
+      "Post": 3,
+      "Name": "Klíše lázně",
+      "Latitude": 50.6656265,
+      "Longitude": 14.0153589,
+      "Zone": 101
+    },
+    {
+      "Node": 12045,
+      "Post": 4,
+      "Name": "Klíše lázně",
+      "Latitude": 50.6656265,
+      "Longitude": 14.0153589,
+      "Zone": 101
+    },
+    {
+      "Node": 12046,
+      "Post": 1,
+      "Name": "Klíšská",
+      "Latitude": 50.66366,
+      "Longitude": 14.0247231,
+      "Zone": 101
+    },
+    {
+      "Node": 12046,
+      "Post": 2,
+      "Name": "Klíšská",
+      "Latitude": 50.6637421,
+      "Longitude": 14.0253592,
+      "Zone": 101
+    },
+    {
+      "Node": 12047,
+      "Post": 1,
+      "Name": "Kmochova",
+      "Latitude": 50.6718445,
+      "Longitude": 14.0518885,
+      "Zone": 101
+    },
+    {
+      "Node": 12047,
+      "Post": 2,
+      "Name": "Kmochova",
+      "Latitude": 50.67162,
+      "Longitude": 14.05191,
+      "Zone": 101
+    },
+    {
+      "Node": 12048,
+      "Post": 1,
+      "Name": "Kojetická",
+      "Latitude": 50.6497231,
+      "Longitude": 14.0812426,
+      "Zone": 101
+    },
+    {
+      "Node": 12048,
+      "Post": 2,
+      "Name": "Kojetická",
+      "Latitude": 50.6497231,
+      "Longitude": 14.0812426,
+      "Zone": 101
+    },
+    {
+      "Node": 12048,
+      "Post": 4,
+      "Name": "Kojetická",
+      "Latitude": 50.6493225,
+      "Longitude": 14.0810232,
+      "Zone": 101
+    },
+    {
+      "Node": 12049,
+      "Post": 1,
+      "Name": "Koštov konečná",
+      "Latitude": 50.627636,
+      "Longitude": 13.9937582,
+      "Zone": 101
+    },
+    {
+      "Node": 12049,
+      "Post": 2,
+      "Name": "Koštov konečná",
+      "Latitude": 50.6278572,
+      "Longitude": 13.9935141,
+      "Zone": 101
+    },
+    {
+      "Node": 12050,
+      "Post": 1,
+      "Name": "Kotva",
+      "Latitude": 50.62646,
+      "Longitude": 14.0533485,
+      "Zone": 101
+    },
+    {
+      "Node": 12050,
+      "Post": 2,
+      "Name": "Kotva",
+      "Latitude": 50.62626,
+      "Longitude": 14.0535955,
+      "Zone": 101
+    },
+    {
+      "Node": 12051,
+      "Post": 1,
+      "Name": "Krásné Březno",
+      "Latitude": 50.6659775,
+      "Longitude": 14.0790882,
+      "Zone": 101
+    },
+    {
+      "Node": 12051,
+      "Post": 2,
+      "Name": "Krásné Březno",
+      "Latitude": 50.6664162,
+      "Longitude": 14.0801916,
+      "Zone": 101
+    },
+    {
+      "Node": 12051,
+      "Post": 4,
+      "Name": "Krásné Březno",
+      "Latitude": 50.6657562,
+      "Longitude": 14.08044,
+      "Zone": 101
+    },
+    {
+      "Node": 12052,
+      "Post": 1,
+      "Name": "Krčínova",
+      "Latitude": 50.6665955,
+      "Longitude": 14.074542,
+      "Zone": 101
+    },
+    {
+      "Node": 12052,
+      "Post": 2,
+      "Name": "Krčínova",
+      "Latitude": 50.66736,
+      "Longitude": 14.0740166,
+      "Zone": 101
+    },
+    {
+      "Node": 12053,
+      "Post": 1,
+      "Name": "Krušnohorská",
+      "Latitude": 50.6765137,
+      "Longitude": 14.0324049,
+      "Zone": 101
+    },
+    {
+      "Node": 12053,
+      "Post": 2,
+      "Name": "Krušnohorská",
+      "Latitude": 50.6764755,
+      "Longitude": 14.033102,
+      "Zone": 101
+    },
+    {
+      "Node": 12054,
+      "Post": 1,
+      "Name": "Lázně",
+      "Latitude": 50.6286049,
+      "Longitude": 14.0593109,
+      "Zone": 101
+    },
+    {
+      "Node": 12054,
+      "Post": 2,
+      "Name": "Lázně",
+      "Latitude": 50.62855,
+      "Longitude": 14.0591078,
+      "Zone": 101
+    },
+    {
+      "Node": 12055,
+      "Post": 1,
+      "Name": "Malátova",
+      "Latitude": 50.671154,
+      "Longitude": 14.0404749,
+      "Zone": 101
+    },
+    {
+      "Node": 12055,
+      "Post": 2,
+      "Name": "Malátova",
+      "Latitude": 50.67162,
+      "Longitude": 14.039341,
+      "Zone": 101
+    },
+    {
+      "Node": 12055,
+      "Post": 3,
+      "Name": "Malátova",
+      "Latitude": 50.6721077,
+      "Longitude": 14.0394306,
+      "Zone": 101
+    },
+    {
+      "Node": 12055,
+      "Post": 4,
+      "Name": "Malátova",
+      "Latitude": 50.6713638,
+      "Longitude": 14.0404911,
+      "Zone": 101
+    },
+    {
+      "Node": 12056,
+      "Post": 1,
+      "Name": "Metal",
+      "Latitude": 50.6487885,
+      "Longitude": 13.9907198,
+      "Zone": 101
+    },
+    {
+      "Node": 12056,
+      "Post": 2,
+      "Name": "Metal",
+      "Latitude": 50.6487885,
+      "Longitude": 13.9907198,
+      "Zone": 101
+    },
+    {
+      "Node": 12057,
+      "Post": 1,
+      "Name": "Mírová",
+      "Latitude": 50.6843834,
+      "Longitude": 14.0326872,
+      "Zone": 101
+    },
+    {
+      "Node": 12057,
+      "Post": 2,
+      "Name": "Mírová",
+      "Latitude": 50.6840057,
+      "Longitude": 14.0332623,
+      "Zone": 101
+    },
+    {
+      "Node": 12057,
+      "Post": 3,
+      "Name": "Mírová",
+      "Latitude": 50.6837044,
+      "Longitude": 14.0340328,
+      "Zone": 101
+    },
+    {
+      "Node": 12057,
+      "Post": 4,
+      "Name": "Mírová",
+      "Latitude": 50.6837044,
+      "Longitude": 14.0340328,
+      "Zone": 101
+    },
+    {
+      "Node": 12058,
+      "Post": 1,
+      "Name": "Mojžíř",
+      "Latitude": 50.679657,
+      "Longitude": 14.1228132,
+      "Zone": 101
+    },
+    {
+      "Node": 12058,
+      "Post": 2,
+      "Name": "Mojžíř",
+      "Latitude": 50.6790466,
+      "Longitude": 14.1230021,
+      "Zone": 101
+    },
+    {
+      "Node": 12059,
+      "Post": 1,
+      "Name": "Na Kohoutě",
+      "Latitude": 50.6864624,
+      "Longitude": 13.9962626,
+      "Zone": 101
+    },
+    {
+      "Node": 12059,
+      "Post": 2,
+      "Name": "Na Kohoutě",
+      "Latitude": 50.6859779,
+      "Longitude": 13.9973345,
+      "Zone": 101
+    },
+    {
+      "Node": 12060,
+      "Post": 1,
+      "Name": "Na luhách",
+      "Latitude": 50.6563568,
+      "Longitude": 14.00897,
+      "Zone": 101
+    },
+    {
+      "Node": 12060,
+      "Post": 2,
+      "Name": "Na luhách",
+      "Latitude": 50.6569,
+      "Longitude": 14.0073891,
+      "Zone": 101
+    },
+    {
+      "Node": 12061,
+      "Post": 1,
+      "Name": "Na Nivách",
+      "Latitude": 50.6626091,
+      "Longitude": 14.0076798,
+      "Zone": 101
+    },
+    {
+      "Node": 12061,
+      "Post": 2,
+      "Name": "Na Nivách",
+      "Latitude": 50.6626091,
+      "Longitude": 14.0076798,
+      "Zone": 101
+    },
+    {
+      "Node": 12061,
+      "Post": 4,
+      "Name": "Na Nivách",
+      "Latitude": 50.6626091,
+      "Longitude": 14.0076798,
+      "Zone": 101
+    },
+    {
+      "Node": 12062,
+      "Post": 1,
+      "Name": "Na Popluží",
+      "Latitude": 50.6662292,
+      "Longitude": 14.0171604,
+      "Zone": 101
+    },
+    {
+      "Node": 12062,
+      "Post": 2,
+      "Name": "Na Popluží",
+      "Latitude": 50.6662292,
+      "Longitude": 14.0171604,
+      "Zone": 101
+    },
+    {
+      "Node": 12063,
+      "Post": 1,
+      "Name": "Na Rybárně",
+      "Latitude": 50.6269341,
+      "Longitude": 14.0697,
+      "Zone": 101
+    },
+    {
+      "Node": 12063,
+      "Post": 2,
+      "Name": "Na Rybárně",
+      "Latitude": 50.6270447,
+      "Longitude": 14.0688467,
+      "Zone": 101
+    },
+    {
+      "Node": 12064,
+      "Post": 1,
+      "Name": "Na Sklípku",
+      "Latitude": 50.6689944,
+      "Longitude": 14.0817728,
+      "Zone": 101
+    },
+    {
+      "Node": 12064,
+      "Post": 2,
+      "Name": "Na Sklípku",
+      "Latitude": 50.6689944,
+      "Longitude": 14.0817728,
+      "Zone": 101
+    },
+    {
+      "Node": 12065,
+      "Post": 1,
+      "Name": "Na Spálence",
+      "Latitude": 50.6699333,
+      "Longitude": 14.01643,
+      "Zone": 101
+    },
+    {
+      "Node": 12065,
+      "Post": 2,
+      "Name": "Na Spálence",
+      "Latitude": 50.6691666,
+      "Longitude": 14.0170116,
+      "Zone": 101
+    },
+    {
+      "Node": 12066,
+      "Post": 1,
+      "Name": "Nad zámkem",
+      "Latitude": 50.64109,
+      "Longitude": 13.9911432,
+      "Zone": 101
+    },
+    {
+      "Node": 12066,
+      "Post": 2,
+      "Name": "Nad zámkem",
+      "Latitude": 50.6410179,
+      "Longitude": 13.990696,
+      "Zone": 101
+    },
+    {
+      "Node": 12068,
+      "Post": 1,
+      "Name": "Neštěmice,sídl.",
+      "Latitude": 50.6748772,
+      "Longitude": 14.1079693,
+      "Zone": 101
+    },
+    {
+      "Node": 12068,
+      "Post": 2,
+      "Name": "Neštěmice,sídl.",
+      "Latitude": 50.6745071,
+      "Longitude": 14.1075821,
+      "Zone": 101
+    },
+    {
+      "Node": 12069,
+      "Post": 1,
+      "Name": "Neštěmická",
+      "Latitude": 50.671627,
+      "Longitude": 14.0859938,
+      "Zone": 101
+    },
+    {
+      "Node": 12069,
+      "Post": 2,
+      "Name": "Neštěmická",
+      "Latitude": 50.6716042,
+      "Longitude": 14.08633,
+      "Zone": 101
+    },
+    {
+      "Node": 12070,
+      "Post": 1,
+      "Name": "Nová Ves",
+      "Latitude": 50.64455,
+      "Longitude": 14.0706091,
+      "Zone": 101
+    },
+    {
+      "Node": 12070,
+      "Post": 2,
+      "Name": "Nová Ves",
+      "Latitude": 50.64455,
+      "Longitude": 14.0706091,
+      "Zone": 101
+    },
+    {
+      "Node": 12071,
+      "Post": 1,
+      "Name": "Nové krematorium",
+      "Latitude": 50.6523476,
+      "Longitude": 14.071353,
+      "Zone": 101
+    },
+    {
+      "Node": 12071,
+      "Post": 2,
+      "Name": "Nové krematorium",
+      "Latitude": 50.6523476,
+      "Longitude": 14.071353,
+      "Zone": 101
+    },
+    {
+      "Node": 12072,
+      "Post": 1,
+      "Name": "Nové Skorotice",
+      "Latitude": 50.6913986,
+      "Longitude": 14.0184002,
+      "Zone": 101
+    },
+    {
+      "Node": 12073,
+      "Post": 1,
+      "Name": "Novosedlické náměstí",
+      "Latitude": 50.6500168,
+      "Longitude": 14.0595951,
+      "Zone": 101
+    },
+    {
+      "Node": 12073,
+      "Post": 2,
+      "Name": "Novosedlické náměstí",
+      "Latitude": 50.65012,
+      "Longitude": 14.0603819,
+      "Zone": 101
+    },
+    {
+      "Node": 12074,
+      "Post": 1,
+      "Name": "OC Forum",
+      "Latitude": 50.65824,
+      "Longitude": 14.0401011,
+      "Zone": 101
+    },
+    {
+      "Node": 12074,
+      "Post": 2,
+      "Name": "OC Forum",
+      "Latitude": 50.65824,
+      "Longitude": 14.0401011,
+      "Zone": 101
+    },
+    {
+      "Node": 12075,
+      "Post": 1,
+      "Name": "Olešnice",
+      "Latitude": 50.66088,
+      "Longitude": 14.115737,
+      "Zone": 101
+    },
+    {
+      "Node": 12075,
+      "Post": 2,
+      "Name": "Olešnice",
+      "Latitude": 50.66096,
+      "Longitude": 14.1157141,
+      "Zone": 101
+    },
+    {
+      "Node": 12076,
+      "Post": 1,
+      "Name": "Opletalova",
+      "Latitude": 50.6703148,
+      "Longitude": 14.1026382,
+      "Zone": 101
+    },
+    {
+      "Node": 12076,
+      "Post": 2,
+      "Name": "Opletalova",
+      "Latitude": 50.6698532,
+      "Longitude": 14.1028509,
+      "Zone": 101
+    },
+    {
+      "Node": 12077,
+      "Post": 1,
+      "Name": "Orlická",
+      "Latitude": 50.6780739,
+      "Longitude": 14.0375767,
+      "Zone": 101
+    },
+    {
+      "Node": 12077,
+      "Post": 2,
+      "Name": "Orlická",
+      "Latitude": 50.6785355,
+      "Longitude": 14.0371552,
+      "Zone": 101
+    },
+    {
+      "Node": 12078,
+      "Post": 1,
+      "Name": "Osamělá",
+      "Latitude": 50.67004,
+      "Longitude": 14.06013,
+      "Zone": 101
+    },
+    {
+      "Node": 12078,
+      "Post": 2,
+      "Name": "Osamělá",
+      "Latitude": 50.6700249,
+      "Longitude": 14.0605965,
+      "Zone": 101
+    },
+    {
+      "Node": 12079,
+      "Post": 1,
+      "Name": "Ovčácká stezka",
+      "Latitude": 50.6411247,
+      "Longitude": 14.0491962,
+      "Zone": 101
+    },
+    {
+      "Node": 12079,
+      "Post": 2,
+      "Name": "Ovčácká stezka",
+      "Latitude": 50.64045,
+      "Longitude": 14.0491772,
+      "Zone": 101
+    },
+    {
+      "Node": 12080,
+      "Post": 1,
+      "Name": "Pekařská",
+      "Latitude": 50.663208,
+      "Longitude": 14.0808392,
+      "Zone": 101
+    },
+    {
+      "Node": 12080,
+      "Post": 2,
+      "Name": "Pekařská",
+      "Latitude": 50.66287,
+      "Longitude": 14.0787058,
+      "Zone": 101
+    },
+    {
+      "Node": 12081,
+      "Post": 1,
+      "Name": "Pod Hradem",
+      "Latitude": 50.6374,
+      "Longitude": 14.0504541,
+      "Zone": 101
+    },
+    {
+      "Node": 12081,
+      "Post": 2,
+      "Name": "Pod Hradem",
+      "Latitude": 50.6373444,
+      "Longitude": 14.0502872,
+      "Zone": 101
+    },
+    {
+      "Node": 12082,
+      "Post": 1,
+      "Name": "Pod Svahem",
+      "Latitude": 50.6485252,
+      "Longitude": 14.0182343,
+      "Zone": 101
+    },
+    {
+      "Node": 12082,
+      "Post": 2,
+      "Name": "Pod Svahem",
+      "Latitude": 50.6485252,
+      "Longitude": 14.0182343,
+      "Zone": 101
+    },
+    {
+      "Node": 12083,
+      "Post": 1,
+      "Name": "Pod Vyhlídkou",
+      "Latitude": 50.66927,
+      "Longitude": 14.0973215,
+      "Zone": 101
+    },
+    {
+      "Node": 12083,
+      "Post": 2,
+      "Name": "Pod Vyhlídkou",
+      "Latitude": 50.6690826,
+      "Longitude": 14.0973606,
+      "Zone": 101
+    },
+    {
+      "Node": 12084,
+      "Post": 1,
+      "Name": "U Podlesí",
+      "Latitude": 50.6583328,
+      "Longitude": 14.0758114,
+      "Zone": 101
+    },
+    {
+      "Node": 12084,
+      "Post": 2,
+      "Name": "U Podlesí",
+      "Latitude": 50.6583557,
+      "Longitude": 14.07772,
+      "Zone": 101
+    },
+    {
+      "Node": 12085,
+      "Post": 1,
+      "Name": "Poláčkova",
+      "Latitude": 50.6741142,
+      "Longitude": 14.05366,
+      "Zone": 101
+    },
+    {
+      "Node": 12085,
+      "Post": 2,
+      "Name": "Poláčkova",
+      "Latitude": 50.67401,
+      "Longitude": 14.0533991,
+      "Zone": 101
+    },
+    {
+      "Node": 12086,
+      "Post": 2,
+      "Name": "Poslední cesta",
+      "Latitude": 50.65157,
+      "Longitude": 14.0642872,
+      "Zone": 101
+    },
+    {
+      "Node": 12086,
+      "Post": 3,
+      "Name": "Poslední cesta",
+      "Latitude": 50.6515121,
+      "Longitude": 14.0638371,
+      "Zone": 101
+    },
+    {
+      "Node": 12087,
+      "Post": 1,
+      "Name": "Pražská",
+      "Latitude": 50.6249657,
+      "Longitude": 14.0582886,
+      "Zone": 101
+    },
+    {
+      "Node": 12087,
+      "Post": 2,
+      "Name": "Pražská",
+      "Latitude": 50.6249237,
+      "Longitude": 14.0580444,
+      "Zone": 101
+    },
+    {
+      "Node": 12088,
+      "Post": 1,
+      "Name": "Prior",
+      "Latitude": 50.668972,
+      "Longitude": 14.0725994,
+      "Zone": 101
+    },
+    {
+      "Node": 12088,
+      "Post": 2,
+      "Name": "Prior",
+      "Latitude": 50.66871,
+      "Longitude": 14.0734119,
+      "Zone": 101
+    },
+    {
+      "Node": 12088,
+      "Post": 4,
+      "Name": "Prior",
+      "Latitude": 50.6687241,
+      "Longitude": 14.0753727,
+      "Zone": 101
+    },
+    {
+      "Node": 12089,
+      "Post": 1,
+      "Name": "Průmyslová",
+      "Latitude": 50.6595421,
+      "Longitude": 14.01192,
+      "Zone": 101
+    },
+    {
+      "Node": 12089,
+      "Post": 2,
+      "Name": "Průmyslová",
+      "Latitude": 50.65968,
+      "Longitude": 14.0117559,
+      "Zone": 101
+    },
+    {
+      "Node": 12090,
+      "Post": 1,
+      "Name": "Průmyslový park",
+      "Latitude": 50.651989,
+      "Longitude": 14.0217694,
+      "Zone": 101
+    },
+    {
+      "Node": 12090,
+      "Post": 2,
+      "Name": "Průmyslový park",
+      "Latitude": 50.651989,
+      "Longitude": 14.0217694,
+      "Zone": 101
+    },
+    {
+      "Node": 12091,
+      "Post": 1,
+      "Name": "Předlice Jateční",
+      "Latitude": 50.6617203,
+      "Longitude": 14.0040703,
+      "Zone": 101
+    },
+    {
+      "Node": 12091,
+      "Post": 2,
+      "Name": "Předlice Jateční",
+      "Latitude": 50.6617203,
+      "Longitude": 14.0040703,
+      "Zone": 101
+    },
+    {
+      "Node": 12092,
+      "Post": 1,
+      "Name": "Předlice Kolonie",
+      "Latitude": 50.66155,
+      "Longitude": 13.9886837,
+      "Zone": 101
+    },
+    {
+      "Node": 12092,
+      "Post": 2,
+      "Name": "Předlice Kolonie",
+      "Latitude": 50.66155,
+      "Longitude": 13.9886837,
+      "Zone": 101
+    },
+    {
+      "Node": 12093,
+      "Post": 1,
+      "Name": "Předlická",
+      "Latitude": 50.66523,
+      "Longitude": 13.9816618,
+      "Zone": 101
+    },
+    {
+      "Node": 12093,
+      "Post": 2,
+      "Name": "Předlická",
+      "Latitude": 50.66523,
+      "Longitude": 13.9816618,
+      "Zone": 101
+    },
+    {
+      "Node": 12094,
+      "Post": 1,
+      "Name": "Přístav",
+      "Latitude": 50.66192,
+      "Longitude": 14.0568256,
+      "Zone": 101
+    },
+    {
+      "Node": 12094,
+      "Post": 2,
+      "Name": "Přístav",
+      "Latitude": 50.6628342,
+      "Longitude": 14.0587893,
+      "Zone": 101
+    },
+    {
+      "Node": 12096,
+      "Post": 1,
+      "Name": "Revoluční",
+      "Latitude": 50.6594772,
+      "Longitude": 14.0371809,
+      "Zone": 101
+    },
+    {
+      "Node": 12096,
+      "Post": 2,
+      "Name": "Revoluční",
+      "Latitude": 50.6595078,
+      "Longitude": 14.0377092,
+      "Zone": 101
+    },
+    {
+      "Node": 12097,
+      "Post": 1,
+      "Name": "Ryjice",
+      "Latitude": 50.6881332,
+      "Longitude": 14.0914984,
+      "Zone": 101
+    },
+    {
+      "Node": 12097,
+      "Post": 2,
+      "Name": "Ryjice",
+      "Latitude": 50.6881332,
+      "Longitude": 14.0914984,
+      "Zone": 101
+    },
+    {
+      "Node": 12098,
+      "Post": 1,
+      "Name": "Ryjice sanatorium",
+      "Latitude": 50.68586,
+      "Longitude": 14.0911655,
+      "Zone": 101
+    },
+    {
+      "Node": 12098,
+      "Post": 2,
+      "Name": "Ryjice sanatorium",
+      "Latitude": 50.68586,
+      "Longitude": 14.0911655,
+      "Zone": 101
+    },
+    {
+      "Node": 12099,
+      "Post": 1,
+      "Name": "Ryjická",
+      "Latitude": 50.678154,
+      "Longitude": 14.099164,
+      "Zone": 101
+    },
+    {
+      "Node": 12099,
+      "Post": 2,
+      "Name": "Ryjická",
+      "Latitude": 50.6792336,
+      "Longitude": 14.0981331,
+      "Zone": 101
+    },
+    {
+      "Node": 12100,
+      "Post": 1,
+      "Name": "Sebuzín",
+      "Latitude": 50.5943222,
+      "Longitude": 14.063098,
+      "Zone": 101
+    },
+    {
+      "Node": 12100,
+      "Post": 2,
+      "Name": "Sebuzín",
+      "Latitude": 50.5947,
+      "Longitude": 14.0641937,
+      "Zone": 101
+    },
+    {
+      "Node": 12101,
+      "Post": 1,
+      "Name": "Sebuzín nádraží",
+      "Latitude": 50.5940857,
+      "Longitude": 14.0562792,
+      "Zone": 101
+    },
+    {
+      "Node": 12101,
+      "Post": 2,
+      "Name": "Sebuzín nádraží",
+      "Latitude": 50.59418,
+      "Longitude": 14.0563583,
+      "Zone": 101
+    },
+    {
+      "Node": 12102,
+      "Post": 1,
+      "Name": "Sebuzín přívoz",
+      "Latitude": 50.5935173,
+      "Longitude": 14.0458355,
+      "Zone": 101
+    },
+    {
+      "Node": 12102,
+      "Post": 2,
+      "Name": "Sebuzín přívoz",
+      "Latitude": 50.5936241,
+      "Longitude": 14.0458784,
+      "Zone": 101
+    },
+    {
+      "Node": 12103,
+      "Post": 1,
+      "Name": "Sebuzín rozcestí",
+      "Latitude": 50.5975838,
+      "Longitude": 14.0718575,
+      "Zone": 101
+    },
+    {
+      "Node": 12103,
+      "Post": 2,
+      "Name": "Sebuzín rozcestí",
+      "Latitude": 50.5975227,
+      "Longitude": 14.0715408,
+      "Zone": 101
+    },
+    {
+      "Node": 12104,
+      "Post": 1,
+      "Name": "Sibiřská",
+      "Latitude": 50.6813927,
+      "Longitude": 14.0935249,
+      "Zone": 101
+    },
+    {
+      "Node": 12104,
+      "Post": 2,
+      "Name": "Sibiřská",
+      "Latitude": 50.68159,
+      "Longitude": 14.0936766,
+      "Zone": 101
+    },
+    {
+      "Node": 12105,
+      "Post": 1,
+      "Name": "Sibiřská sídliště",
+      "Latitude": 50.67992,
+      "Longitude": 14.0958357,
+      "Zone": 101
+    },
+    {
+      "Node": 12105,
+      "Post": 2,
+      "Name": "Sibiřská sídliště",
+      "Latitude": 50.6797638,
+      "Longitude": 14.096652,
+      "Zone": 101
+    },
+    {
+      "Node": 12106,
+      "Post": 1,
+      "Name": "Skalka",
+      "Latitude": 50.6793137,
+      "Longitude": 14.1026659,
+      "Zone": 101
+    },
+    {
+      "Node": 12106,
+      "Post": 2,
+      "Name": "Skalka",
+      "Latitude": 50.6792221,
+      "Longitude": 14.1029825,
+      "Zone": 101
+    },
+    {
+      "Node": 12107,
+      "Post": 1,
+      "Name": "Skorotice",
+      "Latitude": 50.6888428,
+      "Longitude": 14.0079288,
+      "Zone": 101
+    },
+    {
+      "Node": 12107,
+      "Post": 2,
+      "Name": "Skorotice",
+      "Latitude": 50.6889458,
+      "Longitude": 14.0078373,
+      "Zone": 101
+    },
+    {
+      "Node": 12108,
+      "Post": 1,
+      "Name": "Skorotice škola",
+      "Latitude": 50.6881638,
+      "Longitude": 14.0139818,
+      "Zone": 101
+    },
+    {
+      "Node": 12108,
+      "Post": 2,
+      "Name": "Skorotice škola",
+      "Latitude": 50.6881523,
+      "Longitude": 14.0137463,
+      "Zone": 101
+    },
+    {
+      "Node": 12109,
+      "Post": 3,
+      "Name": "Solvayova",
+      "Latitude": 50.66339,
+      "Longitude": 14.0259724,
+      "Zone": 101
+    },
+    {
+      "Node": 12109,
+      "Post": 4,
+      "Name": "Solvayova",
+      "Latitude": 50.66337,
+      "Longitude": 14.0252981,
+      "Zone": 101
+    },
+    {
+      "Node": 12110,
+      "Post": 1,
+      "Name": "Stavbařů",
+      "Latitude": 50.6813622,
+      "Longitude": 14.0346766,
+      "Zone": 101
+    },
+    {
+      "Node": 12110,
+      "Post": 2,
+      "Name": "Stavbařů",
+      "Latitude": 50.68156,
+      "Longitude": 14.0348549,
+      "Zone": 101
+    },
+    {
+      "Node": 12111,
+      "Post": 1,
+      "Name": "Stavební stroje",
+      "Latitude": 50.6618271,
+      "Longitude": 14.06304,
+      "Zone": 101
+    },
+    {
+      "Node": 12111,
+      "Post": 2,
+      "Name": "Stavební stroje",
+      "Latitude": 50.6617279,
+      "Longitude": 14.0641584,
+      "Zone": 101
+    },
+    {
+      "Node": 12112,
+      "Post": 1,
+      "Name": "Strážky",
+      "Latitude": 50.70539,
+      "Longitude": 14.0161743,
+      "Zone": 101
+    },
+    {
+      "Node": 12112,
+      "Post": 2,
+      "Name": "Strážky",
+      "Latitude": 50.7051964,
+      "Longitude": 14.0161257,
+      "Zone": 101
+    },
+    {
+      "Node": 12113,
+      "Post": 1,
+      "Name": "Střední školy",
+      "Latitude": 50.6752129,
+      "Longitude": 14.028883,
+      "Zone": 101
+    },
+    {
+      "Node": 12113,
+      "Post": 2,
+      "Name": "Střední školy",
+      "Latitude": 50.67522,
+      "Longitude": 14.0292387,
+      "Zone": 101
+    },
+    {
+      "Node": 12114,
+      "Post": 1,
+      "Name": "Střekov II",
+      "Latitude": 50.6522636,
+      "Longitude": 14.0696392,
+      "Zone": 101
+    },
+    {
+      "Node": 12114,
+      "Post": 2,
+      "Name": "Střekov II",
+      "Latitude": 50.6520462,
+      "Longitude": 14.0698423,
+      "Zone": 101
+    },
+    {
+      "Node": 12114,
+      "Post": 3,
+      "Name": "Střekov II",
+      "Latitude": 50.6522636,
+      "Longitude": 14.0696392,
+      "Zone": 101
+    },
+    {
+      "Node": 12115,
+      "Post": 1,
+      "Name": "Střekov osada",
+      "Latitude": 50.6344376,
+      "Longitude": 14.05329,
+      "Zone": 101
+    },
+    {
+      "Node": 12115,
+      "Post": 2,
+      "Name": "Střekov osada",
+      "Latitude": 50.6342163,
+      "Longitude": 14.053236,
+      "Zone": 101
+    },
+    {
+      "Node": 12116,
+      "Post": 1,
+      "Name": "Střekov Rodinova",
+      "Latitude": 50.6277046,
+      "Longitude": 14.0658731,
+      "Zone": 101
+    },
+    {
+      "Node": 12117,
+      "Post": 1,
+      "Name": "Stříbrnická",
+      "Latitude": 50.67504,
+      "Longitude": 14.0425835,
+      "Zone": 101
+    },
+    {
+      "Node": 12117,
+      "Post": 2,
+      "Name": "Stříbrnická",
+      "Latitude": 50.675293,
+      "Longitude": 14.0425663,
+      "Zone": 101
+    },
+    {
+      "Node": 12118,
+      "Post": 1,
+      "Name": "Stříbrnické nivy",
+      "Latitude": 50.6681824,
+      "Longitude": 14.0440216,
+      "Zone": 101
+    },
+    {
+      "Node": 12118,
+      "Post": 2,
+      "Name": "Stříbrnické nivy",
+      "Latitude": 50.6680832,
+      "Longitude": 14.0442009,
+      "Zone": 101
+    },
+    {
+      "Node": 12119,
+      "Post": 1,
+      "Name": "Stříbrníky",
+      "Latitude": 50.6741829,
+      "Longitude": 14.0486746,
+      "Zone": 101
+    },
+    {
+      "Node": 12119,
+      "Post": 2,
+      "Name": "Stříbrníky",
+      "Latitude": 50.67408,
+      "Longitude": 14.0491877,
+      "Zone": 101
+    },
+    {
+      "Node": 12119,
+      "Post": 3,
+      "Name": "Stříbrníky",
+      "Latitude": 50.67363,
+      "Longitude": 14.0483751,
+      "Zone": 101
+    },
+    {
+      "Node": 12119,
+      "Post": 4,
+      "Name": "Stříbrníky",
+      "Latitude": 50.67336,
+      "Longitude": 14.04868,
+      "Zone": 101
+    },
+    {
+      "Node": 12120,
+      "Post": 1,
+      "Name": "Svádov obec",
+      "Latitude": 50.66036,
+      "Longitude": 14.1086311,
+      "Zone": 101
+    },
+    {
+      "Node": 12121,
+      "Post": 1,
+      "Name": "Svádovský přívoz",
+      "Latitude": 50.6668358,
+      "Longitude": 14.0986748,
+      "Zone": 101
+    },
+    {
+      "Node": 12121,
+      "Post": 2,
+      "Name": "Svádovský přívoz",
+      "Latitude": 50.6669464,
+      "Longitude": 14.0996132,
+      "Zone": 101
+    },
+    {
+      "Node": 12122,
+      "Post": 1,
+      "Name": "Svatopluka Čecha",
+      "Latitude": 50.66815,
+      "Longitude": 14.0941477,
+      "Zone": 101
+    },
+    {
+      "Node": 12122,
+      "Post": 2,
+      "Name": "Svatopluka Čecha",
+      "Latitude": 50.6681328,
+      "Longitude": 14.0946465,
+      "Zone": 101
+    },
+    {
+      "Node": 12123,
+      "Post": 1,
+      "Name": "Šafaříkovo nám.",
+      "Latitude": 50.6479378,
+      "Longitude": 14.0518036,
+      "Zone": 101
+    },
+    {
+      "Node": 12123,
+      "Post": 2,
+      "Name": "Šafaříkovo nám.",
+      "Latitude": 50.64803,
+      "Longitude": 14.052268,
+      "Zone": 101
+    },
+    {
+      "Node": 12124,
+      "Post": 1,
+      "Name": "Šaldova",
+      "Latitude": 50.67002,
+      "Longitude": 14.0231361,
+      "Zone": 101
+    },
+    {
+      "Node": 12124,
+      "Post": 2,
+      "Name": "Šaldova",
+      "Latitude": 50.6696854,
+      "Longitude": 14.0242882,
+      "Zone": 101
+    },
+    {
+      "Node": 12125,
+      "Post": 1,
+      "Name": "Štefánikova",
+      "Latitude": 50.67318,
+      "Longitude": 14.015686,
+      "Zone": 101
+    },
+    {
+      "Node": 12125,
+      "Post": 2,
+      "Name": "Štefánikova",
+      "Latitude": 50.67369,
+      "Longitude": 14.0156612,
+      "Zone": 101
+    },
+    {
+      "Node": 12126,
+      "Post": 1,
+      "Name": "Textilní",
+      "Latitude": 50.6604754,
+      "Longitude": 14.0033975,
+      "Zone": 101
+    },
+    {
+      "Node": 12126,
+      "Post": 2,
+      "Name": "Textilní",
+      "Latitude": 50.6604754,
+      "Longitude": 14.0033975,
+      "Zone": 101
+    },
+    {
+      "Node": 12127,
+      "Post": 1,
+      "Name": "Trmická",
+      "Latitude": 50.64973,
+      "Longitude": 14.0129786,
+      "Zone": 101
+    },
+    {
+      "Node": 12127,
+      "Post": 2,
+      "Name": "Trmická",
+      "Latitude": 50.65005,
+      "Longitude": 14.0130348,
+      "Zone": 101
+    },
+    {
+      "Node": 12128,
+      "Post": 1,
+      "Name": "Třebízského",
+      "Latitude": 50.65266,
+      "Longitude": 14.04755,
+      "Zone": 101
+    },
+    {
+      "Node": 12128,
+      "Post": 2,
+      "Name": "Třebízského",
+      "Latitude": 50.65266,
+      "Longitude": 14.04755,
+      "Zone": 101
+    },
+    {
+      "Node": 12129,
+      "Post": 1,
+      "Name": "U Studánky",
+      "Latitude": 50.6704254,
+      "Longitude": 14.08465,
+      "Zone": 101
+    },
+    {
+      "Node": 12129,
+      "Post": 2,
+      "Name": "U Studánky",
+      "Latitude": 50.67041,
+      "Longitude": 14.0848579,
+      "Zone": 101
+    },
+    {
+      "Node": 12130,
+      "Post": 1,
+      "Name": "U Vlečky",
+      "Latitude": 50.6591759,
+      "Longitude": 14.0065165,
+      "Zone": 101
+    },
+    {
+      "Node": 12130,
+      "Post": 2,
+      "Name": "U Vlečky",
+      "Latitude": 50.6590843,
+      "Longitude": 14.0050716,
+      "Zone": 101
+    },
+    {
+      "Node": 12131,
+      "Post": 1,
+      "Name": "U Vodopádu",
+      "Latitude": 50.6331139,
+      "Longitude": 14.0475216,
+      "Zone": 101
+    },
+    {
+      "Node": 12131,
+      "Post": 2,
+      "Name": "U Vodopádu",
+      "Latitude": 50.6338425,
+      "Longitude": 14.0470667,
+      "Zone": 101
+    },
+    {
+      "Node": 12133,
+      "Post": 1,
+      "Name": "V Besídkách",
+      "Latitude": 50.6653328,
+      "Longitude": 14.017601,
+      "Zone": 101
+    },
+    {
+      "Node": 12133,
+      "Post": 2,
+      "Name": "V Besídkách",
+      "Latitude": 50.6652069,
+      "Longitude": 14.0188837,
+      "Zone": 101
+    },
+    {
+      "Node": 12134,
+      "Post": 1,
+      "Name": "V Rokli",
+      "Latitude": 50.67361,
+      "Longitude": 14.0432415,
+      "Zone": 101
+    },
+    {
+      "Node": 12134,
+      "Post": 2,
+      "Name": "V Rokli",
+      "Latitude": 50.67341,
+      "Longitude": 14.0432968,
+      "Zone": 101
+    },
+    {
+      "Node": 12135,
+      "Post": 1,
+      "Name": "V Zahrádkách",
+      "Latitude": 50.6752739,
+      "Longitude": 14.0181437,
+      "Zone": 101
+    },
+    {
+      "Node": 12135,
+      "Post": 2,
+      "Name": "V Zahrádkách",
+      "Latitude": 50.6756439,
+      "Longitude": 14.0182333,
+      "Zone": 101
+    },
+    {
+      "Node": 12136,
+      "Post": 1,
+      "Name": "V Zeleni",
+      "Latitude": 50.64972,
+      "Longitude": 14.056118,
+      "Zone": 101
+    },
+    {
+      "Node": 12136,
+      "Post": 2,
+      "Name": "V Zeleni",
+      "Latitude": 50.6497078,
+      "Longitude": 14.0564709,
+      "Zone": 101
+    },
+    {
+      "Node": 12137,
+      "Post": 1,
+      "Name": "Vaňov",
+      "Latitude": 50.6224174,
+      "Longitude": 14.070653,
+      "Zone": 101
+    },
+    {
+      "Node": 12137,
+      "Post": 2,
+      "Name": "Vaňov",
+      "Latitude": 50.6224174,
+      "Longitude": 14.070653,
+      "Zone": 101
+    },
+    {
+      "Node": 12138,
+      "Post": 1,
+      "Name": "Ve Stromkách",
+      "Latitude": 50.68085,
+      "Longitude": 14.003252,
+      "Zone": 101
+    },
+    {
+      "Node": 12139,
+      "Post": 1,
+      "Name": "Větrná",
+      "Latitude": 50.68493,
+      "Longitude": 14.0283079,
+      "Zone": 101
+    },
+    {
+      "Node": 12139,
+      "Post": 2,
+      "Name": "Větrná",
+      "Latitude": 50.6848373,
+      "Longitude": 14.0286074,
+      "Zone": 101
+    },
+    {
+      "Node": 12140,
+      "Post": 3,
+      "Name": "Větruše",
+      "Latitude": 50.6551933,
+      "Longitude": 14.0393705,
+      "Zone": 101
+    },
+    {
+      "Node": 12140,
+      "Post": 4,
+      "Name": "Větruše",
+      "Latitude": 50.6551933,
+      "Longitude": 14.0393705,
+      "Zone": 101
+    },
+    {
+      "Node": 12141,
+      "Post": 1,
+      "Name": "Vinařská",
+      "Latitude": 50.67866,
+      "Longitude": 14.0155191,
+      "Zone": 101
+    },
+    {
+      "Node": 12141,
+      "Post": 2,
+      "Name": "Vinařská",
+      "Latitude": 50.6787376,
+      "Longitude": 14.0157328,
+      "Zone": 101
+    },
+    {
+      "Node": 12142,
+      "Post": 1,
+      "Name": "Vodárna",
+      "Latitude": 50.6432266,
+      "Longitude": 14.0447626,
+      "Zone": 101
+    },
+    {
+      "Node": 12142,
+      "Post": 2,
+      "Name": "Vodárna",
+      "Latitude": 50.64307,
+      "Longitude": 14.0446129,
+      "Zone": 101
+    },
+    {
+      "Node": 12143,
+      "Post": 1,
+      "Name": "Vojanova ZOO",
+      "Latitude": 50.6651,
+      "Longitude": 14.0640421,
+      "Zone": 101
+    },
+    {
+      "Node": 12143,
+      "Post": 2,
+      "Name": "Vojanova ZOO",
+      "Latitude": 50.66485,
+      "Longitude": 14.063777,
+      "Zone": 101
+    },
+    {
+      "Node": 12144,
+      "Post": 1,
+      "Name": "Vozovna",
+      "Latitude": 50.6571541,
+      "Longitude": 13.9967813,
+      "Zone": 101
+    },
+    {
+      "Node": 12144,
+      "Post": 2,
+      "Name": "Vozovna",
+      "Latitude": 50.6571541,
+      "Longitude": 13.9967813,
+      "Zone": 101
+    },
+    {
+      "Node": 12145,
+      "Post": 1,
+      "Name": "Vozovna DP",
+      "Latitude": 50.6611786,
+      "Longitude": 13.9969703,
+      "Zone": 101
+    },
+    {
+      "Node": 12145,
+      "Post": 2,
+      "Name": "Vozovna DP",
+      "Latitude": 50.6611786,
+      "Longitude": 13.9969703,
+      "Zone": 101
+    },
+    {
+      "Node": 12145,
+      "Post": 3,
+      "Name": "Vozovna DP",
+      "Latitude": 50.6611786,
+      "Longitude": 13.9969703,
+      "Zone": 101
+    },
+    {
+      "Node": 12146,
+      "Post": 1,
+      "Name": "Všebořice",
+      "Latitude": 50.6883,
+      "Longitude": 13.9933348,
+      "Zone": 101
+    },
+    {
+      "Node": 12146,
+      "Post": 2,
+      "Name": "Všebořice",
+      "Latitude": 50.6889267,
+      "Longitude": 13.9925852,
+      "Zone": 101
+    },
+    {
+      "Node": 12147,
+      "Post": 1,
+      "Name": "Výstupní",
+      "Latitude": 50.6691322,
+      "Longitude": 14.067852,
+      "Zone": 101
+    },
+    {
+      "Node": 12147,
+      "Post": 2,
+      "Name": "Výstupní",
+      "Latitude": 50.66912,
+      "Longitude": 14.0682611,
+      "Zone": 101
+    },
+    {
+      "Node": 12148,
+      "Post": 1,
+      "Name": "Za Válcovnou",
+      "Latitude": 50.66414,
+      "Longitude": 14.0015583,
+      "Zone": 101
+    },
+    {
+      "Node": 12148,
+      "Post": 2,
+      "Name": "Za Válcovnou",
+      "Latitude": 50.66414,
+      "Longitude": 14.0015583,
+      "Zone": 101
+    },
+    {
+      "Node": 12149,
+      "Post": 1,
+      "Name": "Zahradnictví",
+      "Latitude": 50.63104,
+      "Longitude": 14.0555735,
+      "Zone": 101
+    },
+    {
+      "Node": 12149,
+      "Post": 2,
+      "Name": "Zahradnictví",
+      "Latitude": 50.6304474,
+      "Longitude": 14.0559549,
+      "Zone": 101
+    },
+    {
+      "Node": 12151,
+      "Post": 1,
+      "Name": "Zdymadla",
+      "Latitude": 50.637104,
+      "Longitude": 14.0463181,
+      "Zone": 101
+    },
+    {
+      "Node": 12151,
+      "Post": 2,
+      "Name": "Zdymadla",
+      "Latitude": 50.6369,
+      "Longitude": 14.04631,
+      "Zone": 101
+    },
+    {
+      "Node": 12152,
+      "Post": 1,
+      "Name": "Zimní stadion",
+      "Latitude": 50.6768608,
+      "Longitude": 14.0130701,
+      "Zone": 101
+    },
+    {
+      "Node": 12153,
+      "Post": 1,
+      "Name": "Zoologická zahrada",
+      "Latitude": 50.66867,
+      "Longitude": 14.0550556,
+      "Zone": 101
+    },
+    {
+      "Node": 12153,
+      "Post": 2,
+      "Name": "Zoologická zahrada",
+      "Latitude": 50.6676636,
+      "Longitude": 14.0556746,
+      "Zone": 101
+    },
+    {
+      "Node": 12154,
+      "Post": 1,
+      "Name": "ZPA",
+      "Latitude": 50.6568832,
+      "Longitude": 14.0514784,
+      "Zone": 101
+    },
+    {
+      "Node": 12154,
+      "Post": 2,
+      "Name": "ZPA",
+      "Latitude": 50.65712,
+      "Longitude": 14.0524855,
+      "Zone": 101
+    },
+    {
+      "Node": 12155,
+      "Post": 1,
+      "Name": "Žežická",
+      "Latitude": 50.67264,
+      "Longitude": 14.0734262,
+      "Zone": 101
+    },
+    {
+      "Node": 12155,
+      "Post": 2,
+      "Name": "Žežická",
+      "Latitude": 50.67266,
+      "Longitude": 14.07406,
+      "Zone": 101
+    },
+    {
+      "Node": 1746,
+      "Post": 4,
+      "Name": "Mírové nám.",
+      "Latitude": 50.6599998474121,
+      "Longitude": 14.0406398773193,
+      "Zone": 101
+    },
+    {
+      "Node": 1746,
+      "Post": 5,
+      "Name": "Mírové nám.",
+      "Latitude": 50.6601715087891,
+      "Longitude": 14.041259765625,
+      "Zone": 101
+    },
+    {
+      "Node": 1746,
+      "Post": 7,
+      "Name": "Mírové nám.",
+      "Latitude": 50.6604309082031,
+      "Longitude": 14.0426397323608,
+      "Zone": 101
+    },
+    {
+      "Node": 1746,
+      "Post": 8,
+      "Name": "Mírové nám.",
+      "Latitude": 50.6605110168457,
+      "Longitude": 14.0432996749878,
+      "Zone": 101
+    },
+    {
+      "Node": 1737,
+      "Post": 4,
+      "Name": "Hl. nádr.",
+      "Latitude": 50.6595802307129,
+      "Longitude": 14.0436401367188,
+      "Zone": 101
+    }
+  ]
+}
