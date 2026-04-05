@@ -1,0 +1,360 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Ústí nad Labem Bus Map</title>
+
+  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster/dist/MarkerCluster.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster/dist/MarkerCluster.Default.css" />
+
+  <style>
+    * {
+      box-sizing: border-box;
+      font-family: Arial, sans-serif;
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+    }
+
+    #map {
+      height: 100vh;
+      width: 100vw;
+    }
+
+    #liveClock {
+      position: fixed;
+      top: 15px;
+      right: 15px;
+      z-index: 1200;
+      background: rgba(255,255,255,0.95);
+      border-radius: 14px;
+      padding: 10px 16px;
+      font-size: 24px;
+      font-weight: bold;
+      font-family: monospace;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.2);
+      border: 1px solid #ddd;
+    }
+
+    #searchPanel {
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      width: 100%;
+      background: white;
+      border-top: 2px solid #ccc;
+      z-index: 1000;
+      transition: height 0.3s ease;
+      overflow: hidden;
+      box-shadow: 0 -4px 12px rgba(0,0,0,0.2);
+    }
+
+    #searchPanel.collapsed {
+      height: 60px;
+    }
+
+    #searchPanel.expanded {
+      height: 65vh;
+    }
+
+    #searchHeader {
+      height: 60px;
+      display: flex;
+      align-items: center;
+      padding: 0 20px;
+      font-size: 28px;
+      cursor: pointer;
+      border-bottom: 1px solid #ddd;
+      background: white;
+    }
+
+    #toggleArrow {
+      margin-right: 15px;
+      font-size: 30px;
+      font-weight: bold;
+    }
+
+    #searchContent {
+      padding: 15px;
+      height: calc(100% - 60px);
+      overflow-y: auto;
+    }
+
+    #stopSearch {
+      width: 100%;
+      font-size: 24px;
+      padding: 15px;
+      margin-bottom: 15px;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+    }
+
+    .stop-title {
+      font-size: 30px;
+      font-weight: bold;
+      padding: 10px 15px;
+      border-bottom: 2px solid #ddd;
+      margin-bottom: 10px;
+    }
+
+    .search-result,
+    .departure-row {
+      padding: 15px;
+      border-bottom: 1px solid #ddd;
+      cursor: pointer;
+      font-size: 22px;
+    }
+
+    .departure-row {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .line-box {
+      min-width: 70px;
+      text-align: center;
+      color: white;
+      font-weight: bold;
+      padding: 10px;
+      border-radius: 8px;
+      font-size: 24px;
+      margin-right: 15px;
+    }
+
+    .departure-main {
+      flex: 1;
+      font-size: 22px;
+      font-weight: bold;
+    }
+
+    .departure-time {
+      text-align: right;
+      font-size: 20px;
+    }
+
+    .on-time {
+      color: green;
+      font-size: 18px;
+    }
+
+    .no-results {
+      text-align: center;
+      font-size: 24px;
+      padding: 20px;
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+
+<div id="map"></div>
+<div id="liveClock">00:00:00</div>
+
+<div id="searchPanel" class="collapsed">
+  <div id="searchHeader">
+    <span id="toggleArrow">⌄</span>
+    <span id="headerText">Hledat podle názvu</span>
+  </div>
+
+  <div id="searchContent" style="display:none;">
+    <input type="text" id="stopSearch" placeholder="Napiš jméno zastávky..." />
+    <div id="searchResults"></div>
+  </div>
+</div>
+
+<script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+<script src="https://unpkg.com/leaflet.markercluster/dist/leaflet.markercluster.js"></script>
+
+<script>
+  const map = L.map('map');
+
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; OpenStreetMap contributors'
+  }).addTo(map);
+
+  const markers = L.markerClusterGroup();
+  const bounds = [];
+  const groupedStops = {};
+  let uniqueStops = [];
+  let currentStopName = null;
+  let currentDepartures = [];
+
+  // ✅ NEW: format line (remove Bus/Trol only)
+  function formatLine(line) {
+    return line
+      .replace(/^bus\s*/i, "")
+      .replace(/^trol\s*/i, "")
+      .trim();
+  }
+
+  const searchPanel = document.getElementById("searchPanel");
+  const searchHeader = document.getElementById("searchHeader");
+  const searchContent = document.getElementById("searchContent");
+  const searchInput = document.getElementById("stopSearch");
+  const searchResults = document.getElementById("searchResults");
+
+  function updateClock() {
+    const now = new Date();
+    const hh = String(now.getHours()).padStart(2, "0");
+    const mm = String(now.getMinutes()).padStart(2, "0");
+    const ss = String(now.getSeconds()).padStart(2, "0");
+    document.getElementById("liveClock").textContent = `${hh}:${mm}:${ss}`;
+  }
+
+  updateClock();
+  setInterval(updateClock, 1000);
+
+  function togglePanel(forceOpen = null) {
+    const open = forceOpen !== null
+      ? forceOpen
+      : !searchPanel.classList.contains("expanded");
+
+    searchPanel.className = open ? "expanded" : "collapsed";
+    searchContent.style.display = open ? "block" : "none";
+  }
+
+  searchHeader.addEventListener("click", () => togglePanel());
+
+  fetch("ZASTAVKYDPMUL.json")
+    .then(res => res.json())
+    .then(data => {
+      const stopsData = data.ItemList;
+
+      stopsData.forEach(stop => {
+        if (!groupedStops[stop.Name]) groupedStops[stop.Name] = [];
+        groupedStops[stop.Name].push(stop);
+      });
+
+      uniqueStops = Object.keys(groupedStops);
+
+      uniqueStops.forEach(name => {
+        const stops = groupedStops[name];
+        const avgLat = stops.reduce((sum, s) => sum + s.Latitude, 0) / stops.length;
+        const avgLon = stops.reduce((sum, s) => sum + s.Longitude, 0) / stops.length;
+
+        bounds.push([avgLat, avgLon]);
+
+        const marker = L.marker([avgLat, avgLon]);
+
+        marker.on("click", () => {
+          openDepartures(name);
+          togglePanel(true);
+          map.setView([avgLat, avgLon], 17);
+        });
+
+        markers.addLayer(marker);
+      });
+
+      map.addLayer(markers);
+      map.fitBounds(bounds, { padding: [50, 50] });
+    });
+
+  function getLineColor(line) {
+    const l = line.toLowerCase();
+
+    if (l.startsWith("bus")) return "#16a34a";
+    if (l.startsWith("lan")) return "#dc2626";
+    if (l.startsWith("trol")) return "#1e40af";
+
+    return "#1e40af";
+  }
+
+  function filterValidDepartures(departures) {
+    const now = new Date();
+
+    return departures.filter(dep => {
+      const [hours, minutes] = dep.time.split(":").map(Number);
+
+      const depDate = new Date();
+      depDate.setHours(hours, minutes, 10, 0);
+
+      return depDate >= now;
+    });
+  }
+
+  function renderDepartures(stopName, departures) {
+    const valid = filterValidDepartures(departures);
+
+    let content = `<div class="stop-title">${stopName}</div>`;
+
+    if (!valid.length) {
+      content += `<div class="no-results">Žádné odjezdy</div>`;
+    } else {
+      content += valid.map(dep => `
+        <div class="departure-row">
+          <div class="line-box" style="background:${getLineColor(dep.line)}">
+            ${formatLine(dep.line)}
+          </div>
+          <div class="departure-main">${dep.destination}</div>
+          <div class="departure-time">
+            <div>${dep.time}</div>
+            <div class="on-time">včas</div>
+          </div>
+        </div>
+      `).join("");
+    }
+
+    searchResults.innerHTML = content;
+  }
+
+  function openDepartures(stopName) {
+    const baseUrl = "odjezdy-usti-production.up.railway.app";
+	
+    currentStopName = stopName;
+    searchInput.value = stopName;
+
+    searchResults.innerHTML = `
+      <div class="stop-title">${stopName}</div>
+      <div class="no-results">Načítání odjezdů...</div>
+    `;
+
+    fetch(`${baseUrl}/departures?stop=${encodeURIComponent(stopName)}`)
+      .then(res => res.json())
+      .then(data => {
+        currentDepartures = data.departures;
+        renderDepartures(stopName, currentDepartures);
+      })
+      .catch(() => {
+        searchResults.innerHTML = `
+          <div class="stop-title">${stopName}</div>
+          <div class="no-results">Chyba načítání</div>
+        `;
+      });
+  }
+
+  setInterval(() => {
+    if (currentStopName && currentDepartures.length) {
+      renderDepartures(currentStopName, currentDepartures);
+    }
+  }, 1000);
+
+  searchInput.addEventListener("input", () => {
+    const query = searchInput.value.toLowerCase().trim();
+
+    if (!query) {
+      searchResults.innerHTML = "";
+      return;
+    }
+
+    const matches = uniqueStops.filter(name =>
+      name.toLowerCase().includes(query)
+    );
+
+    searchResults.innerHTML = matches.map(name => `
+      <div class="search-result" onclick="openDepartures('${name.replace(/'/g, "\\'")}')">
+        ${name}
+      </div>
+    `).join("");
+  });
+
+  window.openDepartures = openDepartures;
+</script>
+
+</body>
+</html>
